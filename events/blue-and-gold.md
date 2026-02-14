@@ -1,10 +1,10 @@
-# Blue and Gold Banquet & Arrow of Light Crossover
+# Blue and Gold Banquet & AOL Crossover
 
 **Date:** Saturday, March 7, 2026
 
-**Time:** All day event
+**Time:** All Day
 
-**Location:** Redeeming Grace Church, 5200 Ox Rd, Fairfax, VA 22030
+**Location:** Redeeming Grace Church, 5200 Ox Rd, Fairfax, VA 22030 ([Map](https://maps.app.goo.gl/UDva4DnvxxJoTEmb9))
 
 ---
 

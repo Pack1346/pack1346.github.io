@@ -14,7 +14,7 @@ Come launch your rocket at the Camp Snyder Launch Field! This is a great family 
 
 Rockets should be assembled and decorated before arrival. Engines will be provided at the launch site.
 
-**Need a rocket?** If you don't have a rocket to build before the event, please arrange let us know.
+**Need a rocket?** If you don't have a rocket to build before the event, please email pack1346cubmaster@gmail.com to arrange pickup.
 
 ## Getting There
 
