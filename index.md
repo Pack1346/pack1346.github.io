@@ -3,44 +3,94 @@
 
 We're a Cub Scout pack serving families in the Fairview Elementary community and surrounding Fairfax area. Our pack is chartered by Living Savior Lutheran Church and is part of the National Capital Area Council (NCAC).
 
-If your child attends Fairview Elementary, this is your neighborhood pack! We also welcome families from nearby schools. 
+If your child attends Fairview Elementary, this is your neighborhood pack! We also welcome families from nearby schools.
 
-For RSVPs and the full calendar, visit the [Calendar](calendar.md).
-
----
-
-## Upcoming Events
-
-**Rocket Launch** - Saturday, February 28, 1:00 PM at Camp Snyder
-Scouts will launch their rockets at Camp Snyder. Bring your completed rocket and dress for the weather.
-[Details](events/rocket-launch.md)
-
-**Blue and Gold Banquet & Arrow of Light Crossover** - Saturday, March 7, All Day
-Our annual celebration at Redeeming Grace Church. This is a big one - mark your calendars!
-[Details](events/blue-and-gold.md)
-
-**Pack Meeting (March)** - Monday, March 17, 6:30 PM at Fairview Elementary
-STEM theme. More details coming soon.
-
-**Pack Meeting (April)** - Monday, April 21, 6:30 PM at Fairview Elementary
-Conservation theme. More details coming soon.
+For RSVPs and the full calendar, visit the [Advancement calendar](calendar.md).
 
 ---
 
-## Looking Ahead
+## Events
 
-**Conservation Project** - Weekend of April 25 (details TBD)
+<details id="rocket-launch">
+<summary><strong>Rocket Launch</strong></summary>
 
-**Spring Pack Campout** - May 29-31
+Saturday, February 28, 1:00 - 2:30 PM
+Camp Snyder, Haymarket, VA ([directions](https://maps.app.goo.gl/snyder))
 
-**Cub Scout Overnight Camp** - June 18-21 at Camp Snyder
+Scouts will launch their rockets at Camp Snyder. Bring your completed rocket and dress for the weather. Please RSVP on the Advancement page.
+</details>
 
-**Webelos/AOL Overnight Camp** - July 12-18 at Goshen, VA
+<details id="blue-and-gold">
+<summary><strong>Blue and Gold Banquet & Arrow of Light Crossover</strong></summary>
 
-**Day Camp** - August 3-7 at Gesher Day School, Fairfax
+Saturday, March 7
+Redeeming Grace Church, Fairfax, VA ([directions](https://maps.app.goo.gl/redeeminggrace))
+
+Our annual celebration and Arrow of Light crossover ceremony. This is a big one - mark your calendars! More details coming soon.
+</details>
+
+<details id="march-pack-meeting">
+<summary><strong>Pack Meeting - STEM Theme</strong></summary>
+
+Monday, March 17, 6:30 PM
+Fairview Elementary, Fairfax, VA
+
+More details coming soon.
+</details>
+
+<details id="april-pack-meeting">
+<summary><strong>Pack Meeting - Conservation Theme</strong></summary>
+
+Monday, April 21, 6:30 PM
+Fairview Elementary, Fairfax, VA
+
+More details coming soon.
+</details>
+
+<details id="conservation-project">
+<summary><strong>Conservation Project</strong></summary>
+
+Weekend of April 25 (details TBD)
+
+Details coming soon.
+</details>
+
+<details id="spring-campout">
+<summary><strong>Spring Pack Campout</strong></summary>
+
+May 29 - 31
+Location TBD
+
+Details coming soon.
+</details>
+
+<details id="overnight-camp">
+<summary><strong>Cub Scout Overnight Camp</strong></summary>
+
+June 18 - 21
+Camp Snyder, Haymarket, VA ([directions](https://maps.app.goo.gl/snyder))
+
+Details coming soon.
+</details>
+
+<details id="webelos-aol-camp">
+<summary><strong>Webelos/AOL Overnight Camp</strong></summary>
+
+July 12 - 18
+Goshen Scout Reservation, Goshen, VA
+
+Details coming soon.
+</details>
+
+<details id="day-camp">
+<summary><strong>Day Camp</strong></summary>
+
+August 3 - 7
+Gesher Day School, Fairfax, VA
+
+Details coming soon.
+</details>
 
 ---
 
-Questions? Reach out to us at pack1346cubmaster@gmail.com.
-
-
+Questions? Reach out at [pack1346cubmaster@gmail.com](mailto:pack1346cubmaster@gmail.com).
