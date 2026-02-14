@@ -16,7 +16,7 @@ For RSVPs and the full calendar, visit the [Advancement calendar](calendar.md).
 
 - **Date:** Saturday, February 28, 1:00 - 2:30 PM
 - **Location:** Camp Snyder, Haymarket, VA ([directions](https://maps.app.goo.gl/snyder))
-- **Description:** Scouts get to see their hard work take flight! Each scout will launch the rocket they built during den meetings.
+- **Description:** Scouts get to see their hard work take flight! Each scout will launch the rocket they built.
 - **What to bring:** Completed rocket, weather-appropriate clothing
 - **RSVP:** Please RSVP on the Advancement page
 
