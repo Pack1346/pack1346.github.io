@@ -1,6 +1,10 @@
 # Welcome to Pack 1346
 
-We're a Cub Scout pack chartered at Fairview Elementary in Fairfax, Virginia, part of the National Capital Area Council. This page has the latest on upcoming pack events and activities.
+# Welcome to Pack 1346
+
+We're a Cub Scout pack serving families in the Fairview Elementary community and surrounding Fairfax area. Our pack is chartered by Living Savior Lutheran Church and is part of the National Capital Area Council (NCAC).
+
+If your child attends Fairview Elementary, this is your neighborhood pack! We also welcome families from nearby schools. 
 
 For RSVPs and the full calendar, visit the [Advancement page calendar](calendar.md).
 
