@@ -1,4 +1,3 @@
-# Welcome to Pack 1346
 
 # Welcome to Pack 1346
 
@@ -6,7 +5,7 @@ We're a Cub Scout pack serving families in the Fairview Elementary community and
 
 If your child attends Fairview Elementary, this is your neighborhood pack! We also welcome families from nearby schools. 
 
-For RSVPs and the full calendar, visit the [Advancement page calendar](calendar.md).
+For RSVPs and the full calendar, visit the [Calendar](calendar.md).
 
 ---
 
