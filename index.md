@@ -5,7 +5,7 @@ We're a Cub Scout pack serving families in the Fairview Elementary community and
 
 If your child attends Fairview Elementary, this is your neighborhood pack! We also welcome families from nearby schools.
 
-For RSVPs and the full calendar, visit the [Advancement calendar](calendar.md).
+The full calendar is available at [Scoutbook Plus](https://advancements.scouting.org/).
 
 ---
 
