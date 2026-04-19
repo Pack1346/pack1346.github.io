@@ -4,7 +4,9 @@ We're a Cub Scout pack based in the Fairview Elementary community and serving fa
 
 All families are welcome, whether or not your child attends Fairview. If you're curious about scouting or ready to join, we'd love to hear from you.
 
-The full calendar is available at [Scoutbook Plus](https://advancements.scouting.org/).
+**What you'll find here:** Pack-wide events such as campouts, service projects, pack meetings, and summer camp. This page is primarily focused on events that involve the whole pack.
+
+**What's not here:** Den meetings - those are coordinated by individual den leaders. For the full pack calendar, including den meetings and all pack activities, see [Scoutbook Plus](https://advancements.scouting.org/).
 
 ---
 
