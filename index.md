@@ -12,14 +12,11 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 
 ## At a Glance
 
-- 📝 **[Conservation Service Project](#conservation-project)** - Saturday, April 25. RSVP needed.
-- ⏰ **[Annual Planning Meeting](#annual-planning-meeting)** - Saturday, May 2. RSVP coming soon.
-- 🆕 **[May Pack Meeting and Carnival](#may-pack-meeting)** - Tuesday, May 19. Recruiting event - bring a friend!
-- 🆕 **[Spring Pack Campout](#spring-campout)** - May 29-31, location confirmed (Camp Wilson at Pohick Bay).
+- 📝 **[Spring Pack Campout](#spring-campout)** - May 29-31, (Camp Wilson at Pohick Bay).
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: April 19, 2026*
+*Last updated: May 18, 2026*
 
 ---
 
@@ -27,50 +24,33 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 
 ---
 
-<a id="conservation-project"></a>
-### Conservation Service Project
-
-- **Date:** Saturday, April 25, 9:00 AM - 11:00 AM
-- **Location:** Lake Accotink Park, Springfield, VA. Take the Accotink Park Road entrance off Highland Street, follow it to the end, and meet behind the carousel ([directions](https://maps.app.goo.gl/ycxKxHGg5BGRFDtt7)).
-- **Description:** Scouts will help park staff remove invasive plants at Lake Accotink Park. Hands-on conservation work that counts toward Conservation and Leave No Trace adventure requirements.
-- **What to wear:** Long sleeve shirt, long pants, sturdy closed-toe shoes. Hat or beanie if it's cool. Rain jacket or sweater in case of rain or cold.
-- **What to bring:** Kid-sized work gloves (the park provides adult/teen sizes but not kid sizes). Water bottle (park fountains may be closed). Hand tools for pulling plants are welcome but optional - the park has equipment available.
-- **RSVP:** 📝 [RSVP form](https://forms.gle/iU4vqq4kBZYZENHv7). Siblings welcome.
-
----
-
-<a id="annual-planning-meeting"></a>
-### 2026-27 Annual Planning Meeting and Potluck
-
-- **Date:** Saturday, May 2, 4:00 PM - 7:00 PM
-- **Location:** Cubmaster Kevin's home (address provided on RSVP)
-- **Audience:** Parents
-- **Description:** Join fellow pack parents for a potluck dinner and to help plan the 2026-27 scouting year and set pack fees. This is where the shape of next year's program gets decided, so parent input matters. Families are welcome to come for the potluck portion.
-- **What to bring:** A beverage, side, or dessert to share.
-- **RSVP:** ⏰ RSVP link will be provided.
-
----
-
-<a id="may-pack-meeting"></a>
-### May Pack Meeting and Carnival
-
-- **Date:** Tuesday, May 19, 6:30 PM - 7:30 PM
-- **Location:** Fairview Elementary School
-- **Description:** Our May pack meeting is a carnival with games and stations - and it's also our biggest recruiting event of the spring. Scouts are encouraged to bring friends, neighbors, and family members who might be interested in joining the pack next year.
-- **Bring a friend:** Anyone curious about Cub Scouts is welcome, whether they're a current Fairview family or not. Pack leaders will be on hand to answer questions from prospective families.
-- More details coming soon.
-
----
 
 <a id="spring-campout"></a>
 ### Spring Pack Campout
 
 - **Date:** Friday evening, May 29 through Sunday morning, May 31
-- **Location:** 🆕 Camp Wilson at Pohick Bay Regional Park, Lorton, VA
+- **Location:** Camp Wilson at Pohick Bay Regional Park, Lorton, VA 
+    - Driving directions: https://maps.app.goo.gl/1J74m1xVzSWTh4Ms6
+    - Campsite map: https://www.novaparks.com/sites/default/files/pdf/Camp%20Wilson%20Map.pdf
+        - We are at sites A1, A2, and A3
 - **Description:** Our spring family campout - a weekend of outdoor fun, campfires, and quality time with your scouts. All families welcome, no camping experience needed.
 - **Schedule:** The core program runs Saturday midday through the Saturday evening campfire. Friday night camping is optional for families who want to arrive early and settle in. Sunday morning is pack-up and departure.
+    - **Saturday schedule:**
+        - 1:00 PM: Opening ceremony
+        - 1:15 - 2:00 PM: Pack activities
+        - 2:00 - 4:00 PM: Den activities and snack
+        - 4:00 - 4:30 PM: Free time / dinner prep
+        - 4:30 - 5:30 PM: Pack dinner, cleanup, and s'mores
+        - 5:30 - 7:30 PM: Campfire (Class A uniforms) - rank awards, den skits and songs, advancement by rank (parent participation)
+        - 7:30 - 9:00 PM: Free time
+        - 9:00 PM: Lights out
+    - **Sunday schedule:**
+        - 6:30 AM: Reveille
+        - 7:30 AM: Breakfast
+        - 9:00 AM: Final walk-through and cleanup
 - **Meals:** The pack provides Saturday dinner and Sunday breakfast. All other meals (Friday dinner, Saturday breakfast and lunch) are on families.
-- **RSVP:** An RSVP form will be circulated as the date approaches.
+- **RSVP:** 📝 [Spring Campout RSVP form](https://forms.gle/9TVZB9QvRyf6USXz9)
+
 
 ---
 
