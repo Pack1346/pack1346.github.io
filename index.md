@@ -48,7 +48,8 @@ All families are welcome, whether or not your child attends Fairview. If you're 
         - 6:30 AM: Reveille
         - 7:30 AM: Breakfast
         - 9:00 AM: Final walk-through and cleanup
-- **Meals:** The pack provides Saturday dinner and Sunday breakfast. All other meals (Friday dinner, Saturday breakfast and lunch) are on families.
+- **Uniforms:** Class B (pack t-shirt) for Saturday afternoon activities. Class A (full uniform) for the Saturday evening campfire.
+- **Meals:** Pack provides Saturday dinner and Sunday breakfast. All other meals are on your own.
 - **RSVP:** 📝 [Spring Campout RSVP form](https://forms.gle/9TVZB9QvRyf6USXz9)
 
 
