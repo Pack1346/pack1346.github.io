@@ -32,7 +32,7 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 - **Location:** Camp Wilson at Pohick Bay Regional Park, Lorton, VA 
     - [Driving directions](https://maps.app.goo.gl/1J74m1xVzSWTh4Ms6)
     - [Campsite map](https://www.novaparks.com/sites/default/files/pdf/Camp%20Wilson%20Map.pdf)
-        - We are at sites A1, A2, and A3
+        - We have site A1 on Friday night and sites A1, A2, and A3 on Saturday.
 - **Description:** Our spring family campout - a weekend of outdoor fun, campfires, and quality time with your scouts. All families welcome, no camping experience needed.
 - **Schedule:** The core program runs Saturday midday through the Saturday evening campfire. Friday night camping is optional for families who want to arrive early and settle in. Sunday morning is pack-up and departure.
     - **Saturday schedule:**
