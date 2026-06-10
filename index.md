@@ -12,7 +12,10 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 
 ## At a Glance
 
+- 📝 **[Bike Adventures](#bike-adventures)** - Saturday, June 13 (Burke Lake Park). RSVP open - link in pack email. Bring a friend!
 - 🆕 **[Resident Camp at Camp Snyder](#resident-camp)** - June 18-21. Arrival, swim test, and packing details posted.
+- 📝 **[Bowling](#bowling)** - Sunday, June 28 (Bowl America, Burke). RSVP open. Bring a friend!
+- ⏰ **[Independence Day Parade](#july-4-parade)** - Saturday, July 4 (Fairfax City). RSVP in Scoutbook.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
@@ -24,12 +27,23 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 
 ---
 
+<a id="bike-adventures"></a>
+### Bike Adventures
+
+- **Date:** Saturday, June 13, 9:00 AM
+- **Location:** Burke Lake Park, Shelter A/B parking lot, Fairfax Station, VA
+- **Description:** A morning of biking fun on the Burke Lake trails. Friends are welcome - bring a buddy and introduce them to the pack!
+- **RSVP:** 📝 RSVP link is in the pack email, or contact the cubmaster.
+- More details coming soon.
+
+---
+
 <a id="resident-camp"></a>
 ### Resident Camp at Camp Snyder
 
 - **Date:** Thursday, June 18, 6:00 PM through Sunday, June 21, 9:00 AM
 - **Location:** Camp William B. Snyder, 6100 Antioch Rd, Haymarket, VA 20169 ([directions](https://maps.app.goo.gl/snyder))
-- **Description:** A multi-day resident camp for Tiger through Bear scouts. Scouts spend the days in activities all over camp, earn adventure loops, and build independence in a safe, supervised environment.
+- **Description:** A multi-day resident camp for scouts. Scouts spend the days in activities all over camp, earn adventure loops, and build independence in a safe, supervised environment.
 - **Medical forms (action needed):** Every camper, scouts and adults, needs a completed [Annual Health and Medical Record, Parts A & B (PDF)](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf). These are parent-completed - no doctor visit. Forms must be dated within the past year and list any prescription medications. Bring them to Thursday check-in; they're returned at check-out.
 - **Dietary needs (action needed):** Requests for medical or religious diets must be submitted in advance through camp registration - the kitchen can't accommodate on-site requests. For severe allergies, bring supplemental food in sealed, labeled containers for the camp fridge. If you have an unregistered dietary need, contact the cubmaster ASAP.
 - **Arrival (Thursday):** Meet at Fairview Elementary at 5:30 PM to caravan - we check in as a group at the covered pavilion in the main parking lot. Pack a bag dinner; scouts can eat on the way or after the swim test. A limited number of vehicles can unload gear at the campsite, then return to the main lot. Can't make Thursday? Late check-in is available Friday morning.
@@ -56,12 +70,45 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 
 ---
 
+<a id="bowling"></a>
+### Bowling
+
+- **Date:** Sunday, June 28, 3:00 PM
+- **Location:** Bowl America, Burke, VA
+- **Description:** An afternoon of bowling with pack friends - a great low-key event to invite a friend who's curious about scouting.
+- **RSVP:** 📝 RSVP link is in the pack email, or contact the cubmaster.
+- More details coming soon.
+
+---
+
+<a id="july-4-parade"></a>
+### Independence Day Parade
+
+- **Date:** Saturday, July 4, 8:30 AM
+- **Location:** Fairfax City, VA
+- **Description:** March with Pack 1346 in the Fairfax City Independence Day Parade! A pack tradition and a fun way for scouts to show their pride in the community.
+- **RSVP:** ⏰ RSVP in [Scoutbook](https://advancements.scouting.org/).
+- More details coming soon.
+
+---
+
 <a id="webelos-aol-camp"></a>
 ### Webelos/AOL Overnight Camp
 
 - **Date:** July 12 - 18
 - **Location:** Goshen Scout Reservation, Goshen, VA
 - **Description:** A week-long resident camp for Webelos and Arrow of Light scouts at Goshen. This is the premier summer camp experience for our older scouts - a taste of what Scouts BSA has in store.
+- **Interested?** Contact the cubmaster ASAP to get connected.
+- More details coming soon.
+
+---
+
+<a id="fishing-paddling"></a>
+### Fishing & Paddling Adventure
+
+- **Date:** Saturday, July 25, 9:00 AM
+- **Location:** Fountainhead Regional Park, Fairfax Station, VA
+- **Description:** July is "Jamboree on the Water" month, and we're celebrating with a morning of fishing and paddling at Fountainhead. Bring your own boat and gear or rent on-site.
 - More details coming soon.
 
 ---
@@ -72,6 +119,37 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 - **Date:** August 3 - 7
 - **Location:** Gesher Day School, Fairfax, VA
 - **Description:** A week of daytime adventures close to home. Scouts go home each evening. Great for younger scouts or families who aren't ready for overnight camp.
+- More details coming soon.
+
+---
+
+<a id="nationals-scout-day"></a>
+### Washington Nationals Scout Day
+
+- **Date:** Sunday, August 9, 12:15 PM
+- **Location:** Nationals Park, Washington, DC
+- **Description:** Take your scout out to the ball game! Scout Day at Nationals Park is a blast, and we'd love to sit together as a pack.
+- **Tickets:** [Purchase here](https://tinyurl.com/4vshuwbs). ⏰ To sit with the pack, contact the cubmaster by June 30 so we can purchase seats together.
+- More details coming soon.
+
+---
+
+<a id="ice-cream-playtime"></a>
+### Ice Cream & PlayTime
+
+- **Date:** Wednesday, August 19, 6:00 PM
+- **Location:** Peterson's Ice Cream Depot, Clifton, VA
+- **Description:** Wind down the summer with ice cream and playtime at Peterson's. Friends welcome - a sweet, easy way to introduce a family to the pack!
+- More details coming soon.
+
+---
+
+<a id="back-to-school-swimming"></a>
+### Back to School Swimming
+
+- **Date:** Saturday, August 22, 4:00 PM
+- **Location:** Burke Centre Landings Pool, Burke, VA
+- **Description:** One last splash before the school year starts! An afternoon pool party with the pack. Bring a friend who might want to join us this fall.
 - More details coming soon.
 
 ---
