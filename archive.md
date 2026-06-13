@@ -13,6 +13,15 @@ Past pack events, kept for reference. For upcoming events, see the [main page](h
 
 ---
 
+<a id="bike-adventures"></a>
+### Bike Adventures
+
+- **Date:** Saturday, June 13, 2026, 9:00 AM
+- **Location:** Burke Lake Park, Shelter A/B parking lot, Fairfax Station, VA
+- **Description:** A morning of biking fun on the Burke Lake trails, friends welcome.
+
+---
+
 <a id="spring-campout"></a>
 ### Spring Pack Campout
 

@@ -12,29 +12,17 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 
 ## At a Glance
 
-- 📝 **[Bike Adventures](#bike-adventures)** - Saturday, June 13 (Burke Lake Park). RSVP open - link in pack email. Bring a friend!
-- 🆕 **[Resident Camp at Camp Snyder](#resident-camp)** - June 18-21. Arrival, swim test, and packing details posted.
+- **[Resident Camp at Camp Snyder](#resident-camp)** - June 18-21. Arrival, swim test, and packing details posted.
 - 📝 **[Bowling](#bowling)** - Sunday, June 28 (Bowl America, Burke). RSVP open. Bring a friend!
 - ⏰ **[Independence Day Parade](#july-4-parade)** - Saturday, July 4 (Fairfax City). RSVP in Scoutbook.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: June 10, 2026*
+*Last updated: June 13, 2026*
 
 ---
 
 ## Events
-
----
-
-<a id="bike-adventures"></a>
-### Bike Adventures
-
-- **Date:** Saturday, June 13, 9:00 AM
-- **Location:** Burke Lake Park, Shelter A/B parking lot, Fairfax Station, VA
-- **Description:** A morning of biking fun on the Burke Lake trails. Friends are welcome - bring a buddy and introduce them to the pack!
-- **RSVP:** 📝 RSVP link is in the pack email, or contact the cubmaster.
-- More details coming soon.
 
 ---
 
