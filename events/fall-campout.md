@@ -58,7 +58,7 @@ Nice to have:
 - Wagon for hauling gear from the parking area
 - Marshmallow roasting sticks
 
-Don't have a tent? Tell us before the campout. We can usually pair you up with another family or find you something to borrow.
+Don't have a tent? [Tell us](https://tinyurl.com/4edf2vmp) before the campout, or mention it to your den leader. We can usually pair you up with another family or find you something to borrow.
 
 ---
 
@@ -76,7 +76,7 @@ Pack a warm layer, a hat, and a rain jacket even if the forecast looks clear.
 
 The meal plan is still being worked out, and we'll post it here once it's set along with anything families need to bring. Plan on packing your own snacks and water regardless.
 
-If anyone in your family has a food allergy or dietary need, let the cubmaster know early so it's built into the plan rather than worked around on site.
+If anyone in your family has a food allergy or dietary need, [let us know](https://tinyurl.com/4edf2vmp) early so it's built into the plan rather than worked around on site.
 
 ---
 
@@ -106,6 +106,6 @@ A few things worth knowing:
 
 ## Questions
 
-Contact Cubmaster Kevin Lybarger at [lybarger@gmail.com](mailto:lybarger@gmail.com) or 206-491-6309.
+[Send us a note](https://tinyurl.com/4edf2vmp) and we'll get back to you. If you're already a pack family, your den leader can usually answer campout questions fastest.
 
 ← [Back to all events](/)

@@ -11,7 +11,7 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 Cub Scouts is open to kids in kindergarten through 5th grade, and you can join any time of year. You don't need any camping or outdoor experience, and we don't expect it from parents either.
 
 - 🆕 **Ready to sign up?** [Register online here](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-082paa1346)
-- **Questions first?** Email Cubmaster Kevin at [lybarger@gmail.com](mailto:lybarger@gmail.com) or call 206-491-6309.
+- **Want more information, or have a question?** [Fill out our interest form](https://tinyurl.com/4edf2vmp) and we'll get back to you.
 - **Want to just come see?** Visit our [September Pack Meeting](#september-pack-meeting) on Tuesday, September 15. Bring a friend, no commitment.
 - **Follow along:** [Pack 1346 on Facebook](https://www.facebook.com/Pack1346)
 
@@ -62,7 +62,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 - **Location:** Fairview Elementary blacktop. If the weather is bad, we move into the cafeteria.
 - **Description:** Our first pack meeting of the new program year, and we're opening with the Raingutter Regatta. Scouts build a small sailboat and race it down a water-filled gutter by blowing into the sail. It's loud, it's silly, and it's a great first night for a family thinking about joining. This month's theme is Character and Leadership.
 - **Bring a friend:** This is our fall welcome night. If you know a family curious about scouting, this is the meeting to bring them to.
-- **Questions?** Contact Cubmaster Kevin at lybarger@gmail.com or 206-491-6309.
+- **Questions?** [Get in touch](https://tinyurl.com/4edf2vmp) and we'll get back to you.
 
 ---
 
@@ -140,6 +140,6 @@ Your den leader will confirm exact dates, times, and location. September dates a
 
 ---
 
-**Questions about anything on this page?** Contact Cubmaster Kevin Lybarger at [lybarger@gmail.com](mailto:lybarger@gmail.com) or 206-491-6309.
+**Questions about anything on this page?** [Send us a note](https://tinyurl.com/4edf2vmp) and we'll get back to you.
 
 Looking for a past event? See the [Event Archive](/archive.html).
