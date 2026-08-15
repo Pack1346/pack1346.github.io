@@ -116,10 +116,11 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 These aren't pack-run events, so there's no pack signup and no pack transportation. Families register directly with the council and go on their own. Several pack families usually turn up at each one, and they're all open to friends.
 
-- **Family Camping at Goshen** - September 4-7, Goshen Scout Reservation. [Register](https://tinyurl.com/4jbx776y)
-- **District Cub-o-Ree** - October 3-4, Camp Snyder. [Register](https://tinyurl.com/4d3ycc8m)
-- **Scout-tober Fest** - October 24, Camp Snyder. [Register](https://tinyurl.com/wyveynkm)
-- **Family Camping at Camp Snyder** - November 13-15. Pick your activities when you register. [Register](https://tinyurl.com/5yvmde9r)
+- **Labor Day Family Camp at Goshen** - September 4-7, Camp Olmsted at Goshen Scout Reservation. $30 per camper, and you bring your own tent and food. [Details and registration](https://tinyurl.com/4jbx776y)
+- **Burke Lake District Cub-o-Ree** - Saturday, October 3, 8:00 AM through Sunday, October 4, 1:00 PM, Camp Snyder. Registration isn't open yet, so this one is worth putting on your calendar now and signing up later. [Details](https://tinyurl.com/4d3ycc8m)
+- **Scout-tober Fest** - Saturday, October 24, from 10:00 AM, Camp Snyder. $15 per scout, $5 per adult for the day. [Register](https://tinyurl.com/wyveynkm)
+
+Camp Snyder usually runs a fall family camping weekend in November as well. They haven't posted this year's dates yet, and we'll add it here once they do.
 
 ---
 
