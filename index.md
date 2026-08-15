@@ -89,7 +89,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** Saturday, November 7
 - **Location:** Neighborhoods around Fairview
-- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door in neighborhoods around Fairview ahead of the collection weekend. It's a short morning, it's easy for even the youngest scouts, and it feeds real families in Fairfax.
+- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door in neighborhoods around Fairview leaving notices that ask families to set out non-perishable food the following Saturday, when the council collects it. It's a short morning, it's easy for even the youngest scouts, and it feeds real families in Fairfax.
 
 ---
 
