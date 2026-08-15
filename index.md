@@ -98,7 +98,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** Tuesday, November 17, 6:30 PM - 7:30 PM
 - **Location:** Fairview Elementary cafeteria
-- **Description:** Theme is Citizenship, paired with a service project.
+- **Description:** Theme is Citizenship, paired with our Food for Neighbors service project.
 
 ---
 
@@ -120,6 +120,31 @@ These aren't pack-run events, so there's no pack signup and no pack transportati
 - **Scout-tober Fest** - Saturday, October 24, from 10:00 AM, Camp Snyder. $15 per scout, $5 per adult for the day. [Register](https://tinyurl.com/wyveynkm)
 
 Camp Snyder usually runs a fall family camping weekend in November as well. They haven't posted this year's dates yet, and we'll add it here once they do.
+
+---
+
+## Looking Ahead
+
+The rest of the program year, from the pack calendar. All of it is subject to change, and we'll post details for each one closer to the date.
+
+Pack meetings run 6:30 to 7:30 PM at Fairview Elementary.
+
+| Date | Event |
+|------|-------|
+| Tuesday, January 19 | Pack meeting: Fitness & Sock Games, with a sock donation |
+| Tuesday, February 16 | Pack meeting |
+| Tuesday, March 16 | Pack meeting: STEM |
+| Tuesday, April 27 | Pack meeting: Conservation |
+| Tuesday, May 18 | Pack meeting: Camping & Summer Fun |
+| Friday, May 28 to Sunday, May 30 | Advancement & Rocket Launch Campout, location to be announced |
+| Sunday, July 11 to Saturday, July 17 | Webelos/AOL Overnight Camp at Goshen, for rising 4th and 5th graders |
+
+Also coming, with dates still to be confirmed:
+
+- **Pinewood Derby**, early February, at Living Savior Lutheran Church
+- **Blue & Gold Banquet and Arrow of Light crossover**, early March, at Redeeming Grace Church
+- **Spring conservation project**, in April
+- **Summer 2027 resident camp and day camp**
 
 ---
 
