@@ -64,7 +64,7 @@ Don't have a tent? [Tell us](https://tinyurl.com/4edf2vmp) before the campout, o
 
 ## Dress for October, not for today
 
-October in Northern Virginia swings hard between day and night. Expect daytime highs in the 60s or 70s and overnight lows in the 40s or even upper 30s.
+October in Northern Virginia swings hard between day and night. Expect daytime highs in the 60s or 70s and overnight lows in the 40s and 50s.
 
 The thing that makes or breaks a fall campout is whether your scout is warm at night. A summer sleeping bag on a cold October night is miserable. If your bag isn't rated for cold, add a blanket inside it, put a foam pad or air mattress underneath, and send a knit hat to sleep in. Sleeping off the ground matters more than most people expect.
 
@@ -82,25 +82,25 @@ If anyone in your family has a food allergy or dietary need, [let us know](https
 
 ## Saturday program
 
-Saturday is the main day: outdoor activities, time on the trails, and den time working toward rank adventures. The evening ends with a campfire, and the Bobcat ceremony for scouts who have earned it.
+Saturday is the main day, and we're still building the schedule. It will end with a campfire and the Bobcat ceremony.
 
 Bobcat is the first rank every new Cub Scout earns, whatever their grade. Earning it at a campfire in the woods, in front of the whole pack, is a much better memory than earning it in a cafeteria.
 
-The detailed schedule will be posted here closer to the date.
+We'll post the full schedule here once it's set.
 
 ---
 
 ## About the park
 
-Prince William Forest Park is a National Park Service site, about 40 minutes south of Fairfax off I-95. It's the largest protected natural area in the DC region, with more than 37 miles of trails.
+Prince William Forest Park is a National Park Service site in Triangle, Virginia, which the Park Service calls a natural refuge a short distance from Washington, DC. There are hiking trails, bike-accessible roads, and campgrounds throughout.
 
 A few things worth knowing:
 
-- Cell service is spotty. Don't count on it for coordinating with other families once you're there.
+- Cell service can be unreliable in the park, so sort out any coordination with other families before you arrive.
 - Leave the park better than you found it. Everything you pack in comes back out with you.
 - Quiet hours apply at the group campgrounds, and we'll confirm the exact times before we go.
 
-[Directions to Prince William Forest Park](https://www.nps.gov/prwi/planyourvisit/directions.htm)
+[Directions and park information](https://www.nps.gov/prwi/planyourvisit/directions.htm)
 
 ---
 

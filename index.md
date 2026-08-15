@@ -50,7 +50,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** Friday, August 21, 11:00 AM - 2:00 PM
 - **Location:** Fairview Elementary School, in the gym
-- **Description:** Fairview is hosting its Open House BBQ, and Pack 1346 will have a table in the gym. Stop by to meet leaders, see real pinewood derby cars up close, and let your scout race on our mini track. Kindergarten families, your window is 11:00 to 12:00. Grades 1 through 6 run 12:00 to 1:30.
+- **Description:** Fairview is hosting its Open House BBQ, and Pack 1346 will have a table in the gym. Stop by to meet our leaders, ask us anything about scouting, and let your scout try a hands-on activity. Kindergarten families, your window is 11:00 to 12:00. Grades 1 through 6 run 12:00 to 1:30.
 - **Good to know:** You don't need to be a Fairview family to say hello, and you don't need to sign up for anything to stop by.
 
 ---
@@ -89,7 +89,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** Saturday, November 7
 - **Location:** Neighborhoods around Fairview
-- **Description:** Our council-wide service project and one of the best things we do all year. Scouts distribute bags to neighborhood doorsteps ahead of the food collection. It's a short morning, it's easy for even the youngest scouts, and it feeds real families in Fairfax.
+- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door in neighborhoods around Fairview ahead of the collection weekend. It's a short morning, it's easy for even the youngest scouts, and it feeds real families in Fairfax.
 
 ---
 
