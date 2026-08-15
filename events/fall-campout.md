@@ -11,80 +11,54 @@ permalink: /events/fall-campout/
 **Friday, October 16 through Sunday, October 18, 2026**
 Turkey Run Ridge Group Campground, Prince William Forest Park, Triangle, VA
 
-Our big family campout of the fall. Whole families camp together, scouts run around in the woods for two days, and on Saturday evening our newest scouts earn their Bobcat rank at the campfire.
+Our big family campout of the fall, and the weekend our newest scouts earn their Bobcat rank at the Saturday campfire.
 
-If you've never camped before, come anyway. Plenty of our families were brand new to this a year ago, and we'll help you sort out gear and pick a tent spot. You do not need to buy anything expensive to have a good weekend.
+If you've never camped before, come anyway. Plenty of our families were new to this a year ago, and we'll help you sort out gear and pick a tent spot.
 
 ---
 
 ## The basics
 
-- **Who:** All pack families, scouts and siblings included. At least one parent or guardian camps with each scout.
-- **Cost:** To be announced. We'll post it here and in the pack email once the site fee and food plan are set.
-- **RSVP:** Not open yet. We'll send it through Scoutbook and post the link here.
-- **Getting there:** Families drive on their own. There is no pack caravan.
+- **Who:** All pack families. Scouts, siblings, and at least one parent or guardian with each scout.
+- **RSVP:** Not open yet. It will come through Scoutbook and will ask about food allergies and dietary needs.
+- **Getting there:** Families drive on their own.
 
 ---
 
 ## Arrival and departure
 
-We have two group sites at Turkey Run Ridge, and they're available on different nights.
+- **Friday check-in** opens 12:30 PM. Everyone camping Friday night is at the same site.
+- **Saturday check-in** opens 12:30 PM. A second site opens Saturday for families who can only make one night.
+- **Check-out** is 12:00 PM Sunday.
 
-- **Friday arrival:** Check-in opens 12:30 PM Friday. Everyone camping Friday night will be at the same site, so you'll be together.
-- **Saturday arrival:** Check-in opens 12:30 PM Saturday. Our second site opens Saturday, which gives us room for families who can only make one night.
-- **Departure:** Check-out is 12:00 PM Sunday for everyone.
-
-Coming for just Saturday night is completely normal and a good way to try camping without committing to the full weekend. Site assignments will go out before the campout.
+Coming for Saturday night only is completely normal. Site assignments go out before the campout.
 
 ---
 
 ## What to bring
 
-The essentials:
-
-- Tent, sleeping bags, and sleeping pads or air mattresses
-- Camp chairs
-- Flashlight or headlamp for every person, plus spare batteries
-- Water bottle for every person
-- Weather-appropriate clothing in layers (see below)
-- Personal toiletries and any medications
+- Tent, sleeping bags, and sleeping pads or air mattresses. October nights here drop into the 40s, so bring warmer bedding than you think you need.
+- Layers, including a warm top layer, a hat, and a rain jacket
+- Flashlight or headlamp for every person
+- Camp chairs, and a water bottle for every person
+- Toiletries and any medications
 - Scout uniform shirt for the Saturday evening campfire
 
-Nice to have:
-
-- Small first aid kit for your family
-- Extra tarp or ground cloth
-- Camp lantern
-- Wagon for hauling gear from the parking area
-- Marshmallow roasting sticks
-
-Don't have a tent? [Tell us](https://tinyurl.com/4edf2vmp) before the campout, or mention it to your den leader. We can usually pair you up with another family or find you something to borrow.
-
----
-
-## Dress for October, not for today
-
-October in Northern Virginia swings hard between day and night. Expect daytime highs in the 60s or 70s and overnight lows in the 40s and 50s.
-
-The thing that makes or breaks a fall campout is whether your scout is warm at night. A summer sleeping bag on a cold October night is miserable. If your bag isn't rated for cold, add a blanket inside it, put a foam pad or air mattress underneath, and send a knit hat to sleep in. Sleeping off the ground matters more than most people expect.
-
-Pack a warm layer, a hat, and a rain jacket even if the forecast looks clear.
+Don't have a tent? Contact Cubmaster Kevin before the campout. We can usually pair you up with another family or find you something to borrow.
 
 ---
 
 ## Meals
 
-The meal plan is still being worked out, and we'll post it here once it's set along with anything families need to bring. Plan on packing your own snacks and water regardless.
-
-If anyone in your family has a food allergy or dietary need, [let us know](https://tinyurl.com/4edf2vmp) early so it's built into the plan rather than worked around on site.
+Still being worked out. The pack provides some meals and families cover the rest. We'll post the details here once it's settled, along with anything you need to bring.
 
 ---
 
 ## Saturday program
 
-Saturday is the main day, and we're still building the schedule. It will end with a campfire and the Bobcat ceremony.
+Saturday is the main day, and we're still building the schedule. It ends with a campfire and the Bobcat ceremony.
 
-Bobcat is the first rank every new Cub Scout earns, whatever their grade. Earning it at a campfire in the woods, in front of the whole pack, is a much better memory than earning it in a cafeteria.
+Bobcat is the first rank every new Cub Scout earns, whatever their grade. Earning it at a campfire in the woods beats earning it in a cafeteria.
 
 We'll post the full schedule here once it's set.
 
@@ -92,20 +66,14 @@ We'll post the full schedule here once it's set.
 
 ## About the park
 
-Prince William Forest Park is a National Park Service site in Triangle, Virginia, which the Park Service calls a natural refuge a short distance from Washington, DC. There are hiking trails, bike-accessible roads, and campgrounds throughout.
+Prince William Forest Park is a National Park Service site in Triangle, Virginia, with hiking trails and campgrounds throughout.
 
-A few things worth knowing:
-
-- Cell service can be unreliable in the park, so sort out any coordination with other families before you arrive.
-- Leave the park better than you found it. Everything you pack in comes back out with you.
-- Quiet hours apply at the group campgrounds, and we'll confirm the exact times before we go.
+- Cell service can be unreliable, so sort out any coordination with other families before you arrive.
+- Everything you pack in comes back out with you.
+- Quiet hours apply at the group campgrounds. We'll confirm the times before we go.
 
 [Directions and park information](https://www.nps.gov/prwi/planyourvisit/directions.htm)
 
 ---
-
-## Questions
-
-[Send us a note](https://tinyurl.com/4edf2vmp) and we'll get back to you. If you're already a pack family, your den leader can usually answer campout questions fastest.
 
 ← [Back to all events](/)
