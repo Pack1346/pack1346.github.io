@@ -62,7 +62,6 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 - **Location:** Fairview Elementary blacktop. If the weather is bad, we move into the cafeteria.
 - **Description:** Our first pack meeting of the new program year, and we're opening with the Raingutter Regatta. Scouts build a small sailboat and race it down a water-filled gutter by blowing into the sail. It's loud, it's silly, and it's a great first night for a family thinking about joining. This month's theme is Character and Leadership.
 - **Bring a friend:** This is our fall welcome night. If you know a family curious about scouting, this is the meeting to bring them to.
-- **Questions?** [Get in touch](https://tinyurl.com/4edf2vmp) and we'll get back to you.
 
 ---
 
@@ -130,7 +129,7 @@ Den meetings are run by each den's leaders and are separate from the pack meetin
 
 | Rank | Grade | Usual meeting night |
 |------|-------|---------------------|
-| Lions | Kindergarten | Being scheduled |
+| Lions | Kindergarten | New den forming this fall |
 | Tigers | 1st | 1st Tuesday |
 | Wolves | 2nd | 2nd Tuesday |
 | Bears | 3rd | 1st Wednesday |
@@ -138,9 +137,3 @@ Den meetings are run by each den's leaders and are separate from the pack meetin
 | Arrow of Light | 5th | 4th Tuesday |
 
 Your den leader will confirm exact dates, times, and location. September dates are still being finalized for several dens. For the full calendar including den meetings, see [Scoutbook Plus](https://advancements.scouting.org/).
-
----
-
-**Questions about anything on this page?** [Send us a note](https://tinyurl.com/4edf2vmp) and we'll get back to you.
-
-Looking for a past event? See the [Event Archive](/archive.html).
