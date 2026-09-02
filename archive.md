@@ -13,6 +13,26 @@ Past pack events, kept for reference. For upcoming events, see the [main page](h
 
 ---
 
+<a id="fairview-open-house"></a>
+### Fairview Open House
+
+- **Date:** Friday, August 21, 2026, 11:00 AM - 2:00 PM
+- **Location:** Fairview Elementary School, in the gym
+- **Description:** Fairview hosted its Open House BBQ and the pack ran a community-supporter table in the gym, meeting families and giving scouts a hands-on activity to try.
+- **Worth knowing next time:** Supporter tables were in the gym rather than outside, and the school hosted a BBQ alongside. The kindergarten family window ran 11:00 to 12:00, with grades 1 through 6 from 12:00 to 1:30, so the kindergarten hour is where the Lion recruiting happens.
+
+---
+
+<a id="ice-cream-playtime"></a>
+### Ice Cream & PlayTime
+
+- **Date:** Wednesday, August 19, 2026, 6:00 PM
+- **Location:** Peterson's Ice Cream Depot, Clifton, VA, then the Clifton Town Park playground on Chapel Street
+- **Description:** An end-of-summer social. Families met at Peterson's, then walked to the park playground so scouts could play while parents talked. Friends were welcome and it doubled as an easy first look at the pack for new families.
+- **How it ran:** No-host, so families bought their own ice cream. Print copies of the 2026-27 pack calendar were handed out.
+
+---
+
 <a id="nationals-scout-day"></a>
 ### Washington Nationals Scout Day
 

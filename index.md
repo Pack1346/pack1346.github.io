@@ -10,7 +10,7 @@ All families are welcome, whether or not your child attends Fairview. If you're 
 
 Cub Scouts is open to kids in kindergarten through 5th grade, and you can join any time of year. You don't need any camping or outdoor experience, and we don't expect it from parents either.
 
-- 🆕 **Ready to sign up?** [Register online here](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-082paa1346)
+- **Ready to sign up?** [Register online here](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-082paa1346)
 - **Want more information, or have a question?** [Fill out our interest form](https://tinyurl.com/4edf2vmp) and we'll get back to you.
 - **Want to just come see?** Visit our [September Pack Meeting](#september-pack-meeting) on Tuesday, September 15. Bring a friend, no commitment.
 - **Follow along:** [Pack 1346 on Facebook](https://www.facebook.com/Pack1346)
@@ -19,14 +19,13 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 ## At a Glance
 
-- 🆕 **[Ice Cream & PlayTime](#ice-cream-playtime)** - Wednesday, August 19, 6:00 PM (Clifton). Friends welcome!
-- 🆕 **[Fairview Open House](#fairview-open-house)** - Friday, August 21. Come find our table in the gym.
+- 🆕 **[New Parent Information Night](#new-parent-night)** - Tuesday, September 8, 6:00 PM at Fairview. New families, start here. Kids welcome.
 - 🆕 **[September Pack Meeting & Raingutter Regatta](#september-pack-meeting)** - Tuesday, September 15, 6:30 PM. First meeting of the year.
 - ⏰ **[Fall Campout](#fall-campout)** - October 16-18 at Prince William Forest. Details posted, RSVP coming.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: August 15, 2026*
+*Last updated: September 2, 2026*
 
 ---
 
@@ -34,24 +33,14 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 ---
 
-<a id="ice-cream-playtime"></a>
-### Ice Cream & PlayTime
+<a id="new-parent-night"></a>
+### New Parent Information Night
 
-- **Date:** Wednesday, August 19, 6:00 PM
-- **Location:** Peterson's Ice Cream Depot, Clifton, VA, then the Clifton Town Park playground on Chapel Street
-- **Description:** Wind down the summer with ice cream and playtime. We'll meet at Peterson's, then walk over to the park playground so the kids can run around while parents chat. Friends welcome, and a sweet, easy way to introduce a family to the pack.
-- **Cost:** This one is no-host, so families buy their own ice cream.
-- **Note:** Print copies of the 2026-27 pack calendar will be available.
-
----
-
-<a id="fairview-open-house"></a>
-### Fairview Open House
-
-- **Date:** Friday, August 21, 11:00 AM - 2:00 PM
-- **Location:** Fairview Elementary School, in the gym
-- **Description:** Fairview is hosting its Open House BBQ, and Pack 1346 will have a table in the gym. Stop by to meet our leaders, ask us anything about scouting, and let your scout try a hands-on activity. Kindergarten families, your window is 11:00 to 12:00. Grades 1 through 6 run 12:00 to 1:30.
-- **Good to know:** You don't need to be a Fairview family to say hello, and you don't need to sign up for anything to stop by.
+- **Date:** Tuesday, September 8, 6:00 PM - 7:00 PM
+- **Location:** Fairview Elementary, in the pod
+- **Description:** If your scout is new to Pack 1346, this hour is for you. We'll cover how the pack works, what a year of Cub Scouting actually looks like, and who to ask when you have a question. Pack leaders will be there to meet you and answer whatever comes up.
+- **Kids are welcome.** This is aimed at parents, but bring your scout along.
+- **Also that night:** We'll close with a walkthrough of the Scouting websites you'll actually use, my.scouting.org, training.scouting.org, and Scoutbook Plus (advancements.scouting.org), with time for questions.
 
 ---
 
