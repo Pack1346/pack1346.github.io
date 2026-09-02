@@ -20,7 +20,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 ## At a Glance
 
 - 🆕 **[New Parent Information Night](#new-parent-night)** - Tuesday, September 8, 6:00 PM at Fairview. New families, start here. Kids welcome.
-- 🆕 **[September Pack Meeting & Raingutter Regatta](#september-pack-meeting)** - Tuesday, September 15, 6:30 PM. First meeting of the year.
+- 🆕 **[September Pack Meeting](#september-pack-meeting)** - Tuesday, September 15, 6:30 PM. First meeting of the year, outdoors on the blacktop. Bring a friend.
 - ⏰ **[Fall Campout](#fall-campout)** - October 16-18 at Prince William Forest. Details posted, RSVP coming.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
@@ -45,11 +45,11 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 ---
 
 <a id="september-pack-meeting"></a>
-### September Pack Meeting & Raingutter Regatta
+### September Pack Meeting
 
 - **Date:** Tuesday, September 15, 6:30 PM - 7:30 PM
 - **Location:** Fairview Elementary blacktop. If the weather is bad, we move into the cafeteria.
-- **Description:** Our first pack meeting of the new program year, and we're opening with the Raingutter Regatta. Scouts build a small sailboat and race it down a water-filled gutter by blowing into the sail. It's loud, it's silly, and it's a great first night for a family thinking about joining. This month's theme is Character and Leadership.
+- **Description:** Our first pack meeting of the new program year, with a camping theme ahead of the October campout. Scouts play outdoor games in mixed-age teams while parents get a hands-on session on what a pack campout actually involves. We finish together around a campfire.
 - **Bring a friend:** This is our fall welcome night. If you know a family curious about scouting, this is the meeting to bring them to.
 
 ---
