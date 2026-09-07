@@ -5,7 +5,7 @@ title: Pack Calendar
 
 # Pack 1346 Calendar
 
-Pack events, den meetings, and committee meetings in one place. Tap an event to jump to its details on the [main page](/). To put all of this on your phone, subscribe to the [pack calendar feed](/pack-calendar.ics).
+Pack events, den meetings, and committee meetings in one view. Click a pack event to jump to its details on the [main page](/). To put all of this on your phone, subscribe to the [pack calendar feed](/pack-calendar.ics).
 
 *Last updated: September 7, 2026*
 
@@ -32,42 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
-## The next 6 weeks
-
-
-## Week of Monday, September 7
-
-| Date | Time | Event | Where |
-|------|------|-------|-------|
-| Tuesday, September 8 | 6 PM - 7 PM | [New Parent Information Night](/#new-parent-night) | Fairview Elementary |
-| Tuesday, September 8 | 6:30 PM - 7:30 PM | Wolf Den Meeting | Fairview Elementary |
-| Sunday, September 13 | 2 PM - 3 PM | Bears/Webelos/AOL: Fairfax County Emergency Operations Center Visit | Ask your den leader |
-| Sunday, September 13 | 2 PM - 3 PM | AOL: Fairfax County Emergency Ops Center (EOC) Visit | Ask your den leader |
-
-## Week of Monday, September 14
-
-| Date | Time | Event | Where |
-|------|------|-------|-------|
-| Tuesday, September 15 | 6:30 PM - 7:30 PM | [September Pack Meeting](/#september-pack-meeting) | Fairview Elementary |
-
-## Week of Monday, September 21
-
-| Date | Time | Event | Where |
-|------|------|-------|-------|
-| Tuesday, September 22 | 6:30 PM - 7:30 PM | AOL Den Meeting | Fairview Elementary |
-
-## Week of Monday, September 28
-
-| Date | Time | Event | Where |
-|------|------|-------|-------|
-| Tuesday, September 29 | 6 PM - 7 PM | Lions: Bobcat Adventure | Fairview Elementary (tentative) |
-
-## Week of Monday, October 12
-
-| Date | Time | Event | Where |
-|------|------|-------|-------|
-| Tuesday, October 13 | 6:30 PM - 7:30 PM | Wolf Den Meeting | Fairview Elementary |
-| Tuesday, October 13 | 8 PM - 9 PM | Committee Meeting | Online (video call) |
+<noscript>This calendar needs JavaScript. Subscribe to the <a href="/pack-calendar.ics">feed</a> instead, or see the events list on the <a href="/">main page</a>.</noscript>
 
 ---
 
