@@ -25,7 +25,9 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: September 2, 2026*
+This page lists upcoming pack events with the details: what to bring, where to park, how to RSVP. For a month-by-month view of everything on the pack calendar, including den meetings, see the **[Pack Calendar](/calendar)**.
+
+*Last updated: September 7, 2026*
 
 ---
 
@@ -150,4 +152,4 @@ Den meetings are run by each den's leaders and are separate from the pack meetin
 | Webelos | 4th | 1st Thursday |
 | Arrow of Light | 5th | 4th Tuesday |
 
-Your den leader will confirm exact dates, times, and location. September dates are still being finalized for several dens. For the full calendar including den meetings, see [Scoutbook Plus](https://advancements.scouting.org/).
+Your den leader will confirm exact dates, times, and location. September dates are still being finalized for several dens. Den meetings that have been scheduled show on the [Pack Calendar](/calendar); if your den isn't there yet, ask your den leader.
