@@ -9,6 +9,12 @@ Pack events, den meetings, and committee meetings in one view. Click any event f
 
 *Last updated: September 7, 2026*
 
+<style>
+.main-content .fc table{display:table;width:100%;overflow:visible;margin:0;word-break:normal}
+.main-content .fc th,.main-content .fc td{padding:0;border:1px solid #ddd;vertical-align:top}
+.main-content .fc thead{display:table-header-group}.main-content .fc tbody{display:table-row-group}.main-content .fc tr{display:table-row}
+.main-content .fc .fc-scrollgrid{border-collapse:collapse}
+</style>
 <div id="pack-calendar" style="margin:1em 0 2em 0;"></div>
 <div id="pack-event" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:1000;align-items:center;justify-content:center;padding:1rem;">
   <div style="background:#fff;color:#222;border-radius:8px;padding:1.25rem 1.5rem;max-width:22rem;width:100%;box-shadow:0 8px 30px rgba(0,0,0,.25);">
@@ -42,6 +48,7 @@ Pack events, den meetings, and committee meetings in one view. Click any event f
   }
   var cal = new FullCalendar.Calendar(document.getElementById('pack-calendar'), {
     initialView: 'dayGridMonth',
+    views: { dayGridMonth: { displayEventTime: false } },
     headerToolbar: { left: 'prev,next today', center: 'title', right: 'dayGridMonth,listMonth' },
     events: { url: '/pack-calendar.ics', format: 'ics' },
     eventTimeFormat: { hour: 'numeric', minute: '2-digit', meridiem: 'short' },
