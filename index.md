@@ -19,13 +19,13 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 ## At a Glance
 
+**Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
+
 - 🆕 **[New Parent Information Night](#new-parent-night)** - Tuesday, September 8, 6:00 PM at Fairview. New families, start here. Kids welcome.
 - 🆕 **[September Pack Meeting](#september-pack-meeting)** - Tuesday, September 15, 6:30 PM. First meeting of the year, outdoors on the blacktop. Bring a friend.
 - ⏰ **[Fall Campout](#fall-campout)** - October 16-18 at Prince William Forest. Details posted, RSVP coming.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
-
-This page lists upcoming pack events with the details: what to bring, where to park, how to RSVP. For a month-by-month view of everything on the pack calendar, including den meetings, see the **[Pack Calendar](/calendar)**.
 
 *Last updated: September 7, 2026*
 
