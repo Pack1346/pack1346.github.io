@@ -27,7 +27,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: September 7, 2026*
+*Last updated: September 27, 2026*
 
 ---
 
@@ -75,12 +75,22 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 ---
 
+<a id="lslc-workday"></a>
+### Living Savior Workday
+
+- **Date:** Saturday, November 7, starting at 8:30 AM. The church may move this to Saturday, October 24; we'll update this page once it's final.
+- **Location:** Living Savior Lutheran Church, Fairfax
+- **Description:** Living Savior is our charter organization, the church that sponsors our pack and hosts our Pinewood Derby. This fall we're helping them clear leaves from the church lawn, the preschool, and the vicarage. Scouts of any age can pitch in, and it counts toward service hours.
+- **What to bring:** Work gloves, and a rake or leaf blower if you have one.
+
+---
+
 <a id="scouting-for-food"></a>
 ### Scouting for Food
 
 - **Date:** Saturday, November 7
 - **Location:** Neighborhoods around Fairview
-- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door in neighborhoods around Fairview leaving notices that ask families to set out non-perishable food the following Saturday, when the council collects it. It's a short morning, it's easy for even the youngest scouts, and it feeds real families in Fairfax.
+- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door in neighborhoods around Fairview leaving notices that ask families to set out non-perishable food the following Saturday, when the council collects it. Your den leader will set the walk time. It's a short walk, it's easy for even the youngest scouts, and it feeds real families in Fairfax.
 
 ---
 
@@ -128,14 +138,14 @@ Pack meetings run 6:30 to 7:30 PM at Fairview Elementary.
 | Tuesday, April 27 | Pack meeting: Conservation |
 | Tuesday, May 18 | Pack meeting: Camping & Summer Fun |
 | Friday, May 28 to Sunday, May 30 | Advancement & Rocket Launch Campout, location to be announced |
-| Sunday, July 11 to Saturday, July 17 | Webelos/AOL Overnight Camp at Goshen, for rising 4th and 5th graders |
+| Sunday, July 11 to Saturday, July 17 | Camp Ross resident camp at Goshen, for scouts who are Bears and Webelos this year |
 
 Also coming, with dates still to be confirmed:
 
 - **Pinewood Derby**, early February, at Living Savior Lutheran Church
 - **Blue & Gold Banquet and Arrow of Light crossover**, early March, at Redeeming Grace Church
 - **Spring conservation project**, in April
-- **Summer 2027 resident camp and day camp**
+- **Summer 2027 day camp**
 
 ---
 
