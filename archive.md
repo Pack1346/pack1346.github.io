@@ -9,6 +9,28 @@ Past pack events, kept for reference. For upcoming events, see the [main page](h
 
 ---
 
+## 2026-2027 Program Year
+
+---
+
+<a id="september-pack-meeting"></a>
+### September Pack Meeting
+
+- **Date:** Tuesday, September 15, 2026, 6:30 PM - 7:30 PM
+- **Location:** Fairview Elementary
+- **Description:** The first pack meeting of the program year and our fall bring-a-friend night, with a camping theme ahead of the October campout. Scouts rotated through outdoor game stations by den while parents got a hands-on session on what a pack campout involves, and the night ended around a campfire.
+
+---
+
+<a id="new-parent-night"></a>
+### New Parent Information Night
+
+- **Date:** Tuesday, September 8, 2026, 6:00 PM - 7:00 PM
+- **Location:** Fairview Elementary, in the pod
+- **Description:** An hour for parents new to Pack 1346 on how the pack works, what a year of Cub Scouting looks like, and who to ask with questions. It closed with a walkthrough of my.scouting.org, training.scouting.org, and Scoutbook Plus. Kids were welcome.
+
+---
+
 ## 2025-2026 Program Year
 
 ---

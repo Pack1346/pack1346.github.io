@@ -12,7 +12,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Ready to sign up?** [Register online here](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-082paa1346)
 - **Want more information, or have a question?** [Fill out our interest form](https://tinyurl.com/4edf2vmp) and we'll get back to you.
-- **Want to just come see?** Visit our [September Pack Meeting](#september-pack-meeting) on Tuesday, September 15. Bring a friend, no commitment.
+- **Want to just come see?** Visit our [October Pack Meeting](#october-pack-meeting) on Tuesday, October 20. Bring a friend, no commitment.
 - **Follow along:** [Pack 1346 on Facebook](https://www.facebook.com/Pack1346)
 
 ---
@@ -21,13 +21,12 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
 
-- 🆕 **[New Parent Information Night](#new-parent-night)** - Tuesday, September 8, 6:00 PM at Fairview. New families, start here. Kids welcome.
-- 🆕 **[September Pack Meeting](#september-pack-meeting)** - Tuesday, September 15, 6:30 PM. First meeting of the year, outdoors on the blacktop. Bring a friend.
 - ⏰ **[Fall Campout](#fall-campout)** - October 16-18 at Prince William Forest. Details posted, RSVP coming.
+- **[October Pack Meeting](#october-pack-meeting)** - Tuesday, October 20, 6:30 PM at Fairview. Outdoors and Camping theme, right after the campout. Friends welcome.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: September 27, 2026*
+*Last updated: October 4, 2026*
 
 ---
 
@@ -35,32 +34,11 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 ---
 
-<a id="new-parent-night"></a>
-### New Parent Information Night
-
-- **Date:** Tuesday, September 8, 6:00 PM - 7:00 PM
-- **Location:** Fairview Elementary, in the pod
-- **Description:** If your scout is new to Pack 1346, this hour is for you. We'll cover how the pack works, what a year of Cub Scouting actually looks like, and who to ask when you have a question. Pack leaders will be there to meet you and answer whatever comes up.
-- **Kids are welcome.** This is aimed at parents, but bring your scout along.
-- **Also that night:** We'll close with a walkthrough of the Scouting websites you'll actually use, my.scouting.org, training.scouting.org, and Scoutbook Plus (advancements.scouting.org), with time for questions.
-
----
-
-<a id="september-pack-meeting"></a>
-### September Pack Meeting
-
-- **Date:** Tuesday, September 15, 6:30 PM - 7:30 PM
-- **Location:** Fairview Elementary blacktop. If the weather is bad, we move into the cafeteria.
-- **Description:** Our first pack meeting of the new program year, with a camping theme ahead of the October campout. Scouts play outdoor games in mixed-age teams while parents get a hands-on session on what a pack campout actually involves. We finish together around a campfire.
-- **Bring a friend:** This is our fall welcome night. If you know a family curious about scouting, this is the meeting to bring them to.
-
----
-
 <a id="fall-campout"></a>
 ### Fall Campout & Bobcat Ceremony
 
 - **Date:** Friday, October 16 through Sunday, October 18
-- **Location:** Turkey Run Ridge Group Campground, Prince William Forest Park, Triangle, VA
+- **Location:** Turkey Run Ridge Campground, Prince William Forest Park, Triangle, VA ([map](https://maps.app.goo.gl/UViLm4zJuguiiTay5))
 - **Description:** Our big family campout of the fall, and the weekend our newest scouts earn their Bobcat rank. Whole families camp together. No experience needed, and we'll help you sort out gear.
 - **[Full details, packing list, and directions →](/events/fall-campout/)**
 
@@ -90,7 +68,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** Saturday, November 7
 - **Location:** Neighborhoods around Fairview
-- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door in neighborhoods around Fairview leaving notices that ask families to set out non-perishable food the following Saturday, when the council collects it. Your den leader will set the walk time. It's a short walk, it's easy for even the youngest scouts, and it feeds real families in Fairfax.
+- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door in neighborhoods around Fairview, leaving door hangers that ask neighbors to set out non-perishable food the following Saturday, when local Scouts BSA troops come back to collect it. Your den leader will set the walk time. It's a short walk, easy for even the youngest scouts, and it feeds real families in Fairfax. It happens rain or shine, so dress for the weather.
 
 ---
 
@@ -116,8 +94,6 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 These aren't pack-run events, so there's no pack signup and no pack transportation. Families register directly with the council and go on their own. Several pack families usually turn up at each one, and they're all open to friends.
 
-- **Labor Day Family Camp at Goshen** - September 4-7, Camp Olmsted at Goshen Scout Reservation. $30 per camper, and you bring your own tent and food. [Details and registration](https://tinyurl.com/4jbx776y)
-- **Burke Lake District Cub-o-Ree** - Saturday, October 3, 8:00 AM through Sunday, October 4, 1:00 PM, Camp Snyder. Registration isn't open yet, so this one is worth putting on your calendar now and signing up later. [Details](https://tinyurl.com/4d3ycc8m)
 - **Scout-tober Fest** - Saturday, October 24, from 10:00 AM, Camp Snyder. $15 per scout, $5 per adult for the day. [Register](https://tinyurl.com/wyveynkm)
 
 Camp Snyder usually runs a fall family camping weekend in November as well. They haven't posted this year's dates yet, and we'll add it here once they do.
@@ -155,11 +131,11 @@ Den meetings are run by each den's leaders and are separate from the pack meetin
 
 | Rank | Grade | Usual meeting night |
 |------|-------|---------------------|
-| Lions | Kindergarten | New den forming this fall |
+| Lions | Kindergarten | New den this fall; your den leader will confirm the night |
 | Tigers | 1st | 1st Tuesday |
 | Wolves | 2nd | 2nd Tuesday |
 | Bears | 3rd | 1st Wednesday |
 | Webelos | 4th | 1st Thursday |
 | Arrow of Light | 5th | 4th Tuesday |
 
-Your den leader will confirm exact dates, times, and location. September dates are still being finalized for several dens. Den meetings that have been scheduled show on the [Pack Calendar](/calendar); if your den isn't there yet, ask your den leader.
+Your den leader will confirm exact dates, times, and location. Den meetings that have been scheduled show on the [Pack Calendar](/calendar); if your den isn't there yet, ask your den leader.
