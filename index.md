@@ -26,7 +26,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: October 4, 2026*
+*Last updated: October 5, 2026*
 
 ---
 
@@ -56,7 +56,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 <a id="lslc-workday"></a>
 ### Living Savior Workday
 
-- **Date:** Saturday, November 7, starting at 8:30 AM. The church may move this to Saturday, October 24; we'll update this page once it's final.
+- **Date:** 🆕 Saturday, November 7, 9:30 AM to about 11:30 AM
 - **Location:** Living Savior Lutheran Church, Fairfax
 - **Description:** Living Savior is our charter organization, the church that sponsors our pack and hosts our Pinewood Derby. This fall we're helping them clear leaves from the church lawn, the preschool, and the vicarage. Scouts of any age can pitch in, and it counts toward service hours.
 - **What to bring:** Work gloves, and a rake or leaf blower if you have one.
@@ -66,9 +66,11 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 <a id="scouting-for-food"></a>
 ### Scouting for Food
 
-- **Date:** Saturday, November 7
-- **Location:** Neighborhoods around Fairview
-- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door in neighborhoods around Fairview, leaving door hangers that ask neighbors to set out non-perishable food the following Saturday, when local Scouts BSA troops come back to collect it. Your den leader will set the walk time. It's a short walk, easy for even the youngest scouts, and it feeds real families in Fairfax. It happens rain or shine, so dress for the weather.
+- **Date:** 🆕 Saturday, November 7, or Sunday, November 8. Each den picks its own day and time.
+- **How it works:** Your den leader will send the day, time, and meeting spot for your den. Watch for that message in late October.
+- **Location:** Neighborhoods around Fairview (each den gets its own route)
+- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door leaving door hangers that ask neighbors to set out non-perishable food on Saturday, November 14, when local Scouts BSA troops come back to collect it. It's a short walk of about an hour, easy for even the youngest scouts, and it feeds real families in Fairfax. It happens rain or shine, so dress for the weather.
+- **Same weekend:** The [Living Savior Workday](#lslc-workday) is Saturday morning, 9:30 to about 11:30 AM. Dens will plan their walks around it, so you can do both.
 
 ---
 
