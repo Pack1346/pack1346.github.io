@@ -20,7 +20,7 @@ If you've never camped before, come anyway. Plenty of our families were new to t
 ## The basics
 
 - **Who:** All pack families, siblings included. Every family needs at least one parent or guardian along.
-- ⏰ **RSVP:** Link coming soon. Please use it to tell us about any food allergies or dietary needs.
+- 📝 **RSVP:** [RSVP here](https://forms.gle/xN1H1GfQgFSur1Ns9) by Sunday, October 11, so dens can plan Saturday dinner. Please include any food allergies or dietary needs.
 - **Cost:** The park charges a $20 entrance fee per vehicle. If you have a 4th grader, your family can get a free national parks pass for this school year through the Every Kid Outdoors program.
 - **Getting there:** Families drive on their own.
 

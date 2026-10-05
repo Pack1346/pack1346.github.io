@@ -21,7 +21,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
 
-- ⏰ **[Fall Campout](#fall-campout)** - October 16-18 at Prince William Forest. Details posted, RSVP coming.
+- 📝 **[Fall Campout](#fall-campout)** - October 16-18 at Prince William Forest. [RSVP](https://forms.gle/xN1H1GfQgFSur1Ns9) by Sunday, October 11.
 - **[October Pack Meeting](#october-pack-meeting)** - Tuesday, October 20, 6:30 PM at Fairview. Outdoors and Camping theme, right after the campout. Friends welcome.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
