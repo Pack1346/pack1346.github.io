@@ -21,7 +21,7 @@ If you've never camped before, come anyway. Plenty of our families were new to t
 
 - 📝 **RSVP** by Sunday, October 11. [RSVP here](https://forms.gle/xN1H1GfQgFSur1Ns9), and include any food allergies or dietary needs so dens can plan Saturday dinner.
 - 🆕 **Health forms:** Bring a paper copy of the [Annual Health and Medical Record, Parts A and B](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf) for every person camping, adults and siblings included. No doctor visit is needed, and a form completed in the past year still counts.
-- **Need a tent?** Contact Cubmaster Kevin before the campout. We can usually pair you up with another family or find you something to borrow.
+- **Need a tent?** Contact Cubmaster Kevin before the campout and we'll find you a spare.
 - **Have a 4th grader?** Sign up for the free [Every Kid Outdoors](https://everykidoutdoors.gov) pass and print it before you come. It covers the park's $20 entrance fee for your whole vehicle, and the park can't accept it on a phone.
 
 ---
