@@ -42,7 +42,7 @@ Come for as much of the weekend as you can. If Saturday afternoon and evening is
 - **Friday, from 5:00 PM:** Arrive and set up. Friday night is on-your-own family camping, with no pack program, so bring your own dinner.
 - **Saturday morning:** Arrive and set up your tent if you're coming Saturday.
 - **Saturday, 12:00 PM:** Pack activities start.
-- **Sunday morning:** Breakfast, an optional interfaith service, then we pack up and head home.
+- **Sunday morning:** Breakfast, then we pack up and head home.
 
 ---
 
@@ -63,7 +63,6 @@ Come for as much of the weekend as you can. If Saturday afternoon and evening is
 
 - 6:30 AM: Wake up
 - 7:30 AM: Breakfast, cooked by our Arrow of Light scouts
-- 8:30 AM: Interfaith service (optional)
 - 9:00 AM: Final walk-through and cleanup
 
 Bobcat is the first rank every new Cub Scout earns, whatever their grade. Earning it at a campfire in the woods beats earning it in a cafeteria.
