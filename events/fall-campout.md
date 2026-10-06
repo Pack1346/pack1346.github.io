@@ -17,12 +17,20 @@ If you've never camped before, come anyway. Plenty of our families were new to t
 
 ---
 
+## Before you come
+
+- 📝 **RSVP** by Sunday, October 11. [RSVP here](https://forms.gle/xN1H1GfQgFSur1Ns9), and include any food allergies or dietary needs so dens can plan Saturday dinner.
+- 🆕 **Health forms:** Bring a paper copy of the [Annual Health and Medical Record, Parts A and B](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_AB.pdf) for every person camping, adults and siblings included. No doctor visit is needed, and a form completed in the past year still counts.
+- **Need a tent?** Contact Cubmaster Kevin before the campout. We can usually pair you up with another family or find you something to borrow.
+- **Have a 4th grader?** Sign up for the free [Every Kid Outdoors](https://everykidoutdoors.gov) pass and print it before you come. It covers the park's $20 entrance fee for your whole vehicle, and the park can't accept it on a phone.
+
+---
+
 ## The basics
 
 - **Who:** All pack families, siblings included. Every family needs at least one parent or guardian along.
-- 📝 **RSVP:** [RSVP here](https://forms.gle/xN1H1GfQgFSur1Ns9) by Sunday, October 11, so dens can plan Saturday dinner. Please include any food allergies or dietary needs.
 - 🆕 **Planning meeting:** Thursday, October 8, 8:00 to 9:00 PM, online. We'll talk through the schedule and activities for the weekend. All parents are welcome, den leaders especially. The Zoom link is on the "Campout Planning Virtual Meeting" event in Scoutbook and in the pack email.
-- **Cost:** The park charges a $20 entrance fee per vehicle. If you have a 4th grader, your family can get a free national parks pass for this school year through the Every Kid Outdoors program.
+- **Cost:** The park charges a $20 entrance fee per vehicle.
 - **Getting there:** Families drive on their own.
 
 ---
@@ -89,8 +97,6 @@ Bobcat is the first rank every new Cub Scout earns, whatever their grade. Earnin
 - Flashlight or headlamp for every person, and a lantern
 - Camp chairs and filled water bottles
 - Toiletries, towels, and any medications
-
-Don't have a tent? Contact Cubmaster Kevin before the campout. We can usually pair you up with another family or find you something to borrow.
 
 ---
 
