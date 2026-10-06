@@ -21,6 +21,7 @@ If you've never camped before, come anyway. Plenty of our families were new to t
 
 - **Who:** All pack families, siblings included. Every family needs at least one parent or guardian along.
 - 📝 **RSVP:** [RSVP here](https://forms.gle/xN1H1GfQgFSur1Ns9) by Sunday, October 11, so dens can plan Saturday dinner. Please include any food allergies or dietary needs.
+- 🆕 **Planning meeting:** Thursday, October 8, 8:00 to 9:00 PM, online. We'll talk through the schedule and activities for the weekend. All parents are welcome, den leaders especially. The Zoom link is on the "Campout Planning Virtual Meeting" event in Scoutbook and in the pack email.
 - **Cost:** The park charges a $20 entrance fee per vehicle. If you have a 4th grader, your family can get a free national parks pass for this school year through the Every Kid Outdoors program.
 - **Getting there:** Families drive on their own.
 
