@@ -27,7 +27,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: October 6, 2026*
+*Last updated: October 7, 2026*
 
 ---
 
@@ -40,7 +40,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** Friday, October 16 through Sunday, October 18
 - **Location:** Turkey Run Ridge Campground, Prince William Forest Park, Triangle, VA ([map](https://maps.app.goo.gl/UViLm4zJuguiiTay5))
-- **Description:** Our big family campout of the fall, and the weekend our newest scouts earn their Bobcat rank. Whole families camp together. No experience needed, and we'll help you sort out gear.
+- **Description:** Our big family campout of the fall, and the weekend our newest scouts earn their Bobcat rank. Whole families camp together, siblings included. No experience needed, and we'll help you sort out gear.
 - **[Full details, packing list, and directions →](/events/fall-campout/)**
 
 ---

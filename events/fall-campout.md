@@ -11,7 +11,7 @@ permalink: /events/fall-campout/
 **Friday, October 16 through Sunday, October 18, 2026**
 Turkey Run Ridge Campground, Prince William Forest Park, 5475 Turkey Run Rd, Triangle, VA 22172 ([map](https://maps.app.goo.gl/UViLm4zJuguiiTay5))
 
-Our big family campout of the fall, and the weekend our newest scouts earn their Bobcat rank at the Saturday campfire.
+Our big family campout of the fall, and the weekend our newest scouts earn their Bobcat rank at the Saturday campfire. Bring the whole family; siblings are welcome to camp with you.
 
 If you've never camped before, come anyway. Plenty of our families were new to this a year ago, and we'll help you sort out gear and pick a tent spot.
 
@@ -28,7 +28,7 @@ If you've never camped before, come anyway. Plenty of our families were new to t
 
 ## The basics
 
-- **Who:** All pack families, siblings included. Every family needs at least one parent or guardian along.
+- **Who:** All pack families. Siblings are welcome. Every family needs at least one parent or guardian along.
 - 🆕 **Planning meeting:** Thursday, October 8, 8:00 to 9:00 PM, online. We'll talk through the schedule and activities for the weekend. All parents are welcome, den leaders especially. The Zoom link is on the "Campout Planning Virtual Meeting" event in Scoutbook and in the pack email.
 - **Cost:** The park charges a $20 entrance fee per vehicle.
 - **Getting there:** Families drive on their own.
