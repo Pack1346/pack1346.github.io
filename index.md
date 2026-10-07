@@ -24,6 +24,8 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 - 🆕 **[Campout Planning Meeting](/events/fall-campout/)** - Thursday, October 8, 8:00 PM, online. All parents welcome, den leaders especially. Zoom link is in Scoutbook.
 - 📝 **[Fall Campout](#fall-campout)** - October 16-18 at Prince William Forest. [RSVP](https://forms.gle/xN1H1GfQgFSur1Ns9) by Sunday, October 11, and bring health forms.
 - **[October Pack Meeting](#october-pack-meeting)** - Tuesday, October 20, 6:30 PM at Fairview. Outdoors and Camping theme, right after the campout. Friends welcome.
+- 📝 **[Living Savior Workday](#lslc-workday)** - Saturday, November 7, 9:30 to about 11:30 AM. Help our charter organization. [RSVP](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1.
+- **[Scouting for Food](#scouting-for-food)** - November 7 or 8. Your den leader will send your den's time.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
@@ -58,9 +60,10 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 ### Living Savior Workday
 
 - **Date:** 🆕 Saturday, November 7, 9:30 AM to about 11:30 AM
-- **Location:** Living Savior Lutheran Church, Fairfax
-- **Description:** Living Savior is our charter organization, the church that sponsors our pack and hosts our Pinewood Derby. This fall we're helping them clear leaves from the church lawn, the preschool, and the vicarage. Scouts of any age can pitch in, and it counts toward service hours.
-- **What to bring:** Work gloves, and a rake or leaf blower if you have one.
+- **Location:** Living Savior Lutheran Church, 5500 Ox Road, Fairfax Station, VA ([map](https://www.google.com/maps/search/?api=1&query=5500+Ox+Road+Fairfax+Station+VA+22039))
+- **Description:** Living Savior is our charter organization, the church that sponsors our pack and hosts our Pinewood Derby. This is our chance to give back, and we'd love a big turnout from every den. We'll clear leaves from the church lawn, the preschool, and the vicarage. Scouts of any age can pitch in, and it counts toward service hours, so record it in Scoutbook.
+- **What to bring:** Work gloves for everyone, plus a rake, leaf blower, or wheelbarrow if you have one (and an extension cord for an electric blower). The church has some rakes on hand. Bring water bottles and wear clothes that can get dirty.
+- **RSVP:** 📝 [RSVP here](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1, so we can give the church a headcount.
 
 ---
 
@@ -70,7 +73,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 - **Date:** 🆕 Saturday, November 7, or Sunday, November 8. Each den picks its own day and time.
 - **How it works:** Your den leader will send the day, time, and meeting spot for your den. Watch for that message in late October.
 - **Location:** Neighborhoods around Fairview (each den gets its own route)
-- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door leaving door hangers that ask neighbors to set out non-perishable food on Saturday, November 14, when local Scouts BSA troops come back to collect it. It's a short walk of about an hour, easy for even the youngest scouts, and it feeds real families in Fairfax. It happens rain or shine, so dress for the weather.
+- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door leaving door hangers that ask neighbors to set out non-perishable food on Saturday, November 14, when local Scouts BSA troops come back to collect it. It takes about an hour, it's easy for even the youngest scouts, and it's a lot of fun, especially if scouts ride scooters along the route (helmets on, please). And it feeds real families in Fairfax. It happens rain or shine, so dress for the weather.
 - **Same weekend:** The [Living Savior Workday](#lslc-workday) is Saturday morning, 9:30 to about 11:30 AM. Dens will plan their walks around it, so you can do both.
 
 ---
