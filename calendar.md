@@ -7,7 +7,7 @@ title: Pack Calendar
 
 Pack events, den meetings, and committee meetings in one view. Click any event for the when and where; pack events link through to details on the [main page](/). To put all of this on your phone, subscribe to the [pack calendar feed](/pack-calendar.ics).
 
-*Last updated: September 7, 2026*
+*Last updated: October 8, 2026*
 
 <style>
 .main-content .fc table{display:table;width:100%;overflow:visible;margin:0;word-break:normal}
