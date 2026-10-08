@@ -28,7 +28,8 @@ If you've never camped before, come anyway. Plenty of our families were new to t
 
 ## The basics
 
-- **Who:** All pack families. Siblings are welcome. Every family needs at least one parent or guardian along.
+- **Who:** All pack families, siblings included. Scouts camp and tent with their own family, so plan on a parent or guardian coming along. Lions and Tigers must have their adult partner there.
+- **If a parent can't come:** Contact Cubmaster Kevin before the campout. In some cases an older scout can camp under the care of another pack parent who is a registered adult leader, but it has to be set up ahead of time.
 - 🆕 **Planning meeting:** Thursday, October 8, 8:00 to 9:00 PM, online. We'll talk through the schedule and activities for the weekend. All parents are welcome, den leaders especially. The Zoom link is on the "Campout Planning Virtual Meeting" event in Scoutbook and in the pack email.
 - **Cost:** The park charges a $20 entrance fee per vehicle.
 - **Getting there:** Families drive on their own.
