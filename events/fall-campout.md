@@ -31,7 +31,7 @@ If you've never camped before, come anyway. Plenty of our families were new to t
 - **Who:** All pack families, siblings included. Scouts camp and tent with their own family, so plan on a parent or guardian coming along. Lions and Tigers must have their adult partner there.
 - **If a parent can't come:** Contact Cubmaster Kevin before the campout. In some cases an older scout can camp under the care of another pack parent who is a registered adult leader, but it has to be set up ahead of time.
 - **Cost:** The park charges a $20 entrance fee per vehicle.
-- **Getting there:** Families drive on their own.
+- **Getting there:** Families drive on their own. Set your GPS for the main park entrance, 18170 Park Entrance Rd, Triangle, VA 22172 ([map](https://www.google.com/maps/search/?api=1&query=18170+Park+Entrance+Rd+Triangle+VA+22172)), and pay the entrance fee there. Then follow the park signs to Turkey Run Ridge Group Campground, about 3 miles past the visitor center.
 
 ---
 
