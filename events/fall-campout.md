@@ -9,7 +9,7 @@ permalink: /events/fall-campout/
 # Fall Campout & Bobcat Ceremony
 
 **Friday, October 16 through Sunday, October 18, 2026**
-Turkey Run Ridge Campground, Prince William Forest Park, 5475 Turkey Run Rd, Triangle, VA 22172 ([map](https://maps.app.goo.gl/UViLm4zJuguiiTay5))
+Turkey Run Ridge Group Campground, Sites C and A, Prince William Forest Park, 5475 Turkey Run Rd, Triangle, VA 22172 ([map](https://maps.app.goo.gl/UViLm4zJuguiiTay5))
 
 Our big family campout of the fall, and the weekend our newest scouts earn their Bobcat rank at the Saturday campfire. Bring the whole family; siblings are welcome to camp with you.
 
@@ -30,7 +30,6 @@ If you've never camped before, come anyway. Plenty of our families were new to t
 
 - **Who:** All pack families, siblings included. Scouts camp and tent with their own family, so plan on a parent or guardian coming along. Lions and Tigers must have their adult partner there.
 - **If a parent can't come:** Contact Cubmaster Kevin before the campout. In some cases an older scout can camp under the care of another pack parent who is a registered adult leader, but it has to be set up ahead of time.
-- 🆕 **Planning meeting:** Thursday, October 8, 8:00 to 9:00 PM, online. We'll talk through the schedule and activities for the weekend. All parents are welcome, den leaders especially. The Zoom link is on the "Campout Planning Virtual Meeting" event in Scoutbook and in the pack email.
 - **Cost:** The park charges a $20 entrance fee per vehicle.
 - **Getting there:** Families drive on their own.
 
@@ -44,6 +43,19 @@ Come for as much of the weekend as you can. If Saturday afternoon and evening is
 - **Saturday morning:** Arrive and set up your tent if you're coming Saturday.
 - **Saturday, 12:00 PM:** Pack activities start.
 - **Sunday morning:** Breakfast, then we pack up and head home.
+
+---
+
+<a id="finding-our-sites"></a>
+## Finding our sites
+
+![Map of Turkey Run Ridge Group Campground with Sites C and A highlighted in blue](/assets/turkey-run-ridge-map.jpg)
+
+- **Friday night:** We're at Site C. Kevin will be there from about 5:30 PM to help you find a spot.
+- **Saturday night:** We have Sites C and A, on the same loop road a short walk apart.
+- **Arriving Saturday morning:** Come to Site C first and we'll point you to a spot. Site A doesn't open until 12:30 PM.
+- **Restrooms:** Flush toilets and sinks just below Site C. No showers.
+- **Parking:** Each site has only a small parking area, so carpool if you can.
 
 ---
 
