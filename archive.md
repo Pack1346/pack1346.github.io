@@ -13,6 +13,16 @@ Past pack events, kept for reference. For upcoming events, see the [main page](h
 
 ---
 
+<a id="fall-campout"></a>
+### Fall Campout & Bobcat Ceremony
+
+- **Date:** Friday, October 16 through Sunday, October 18, 2026
+- **Location:** Turkey Run Ridge Group Campground, Sites C and A, Prince William Forest Park, Triangle, VA ([map](https://maps.app.goo.gl/UViLm4zJuguiiTay5))
+- **Description:** Our big family campout of the fall, and the weekend our newest scouts earned their Bobcat rank at the Saturday campfire. Whole families camped together, siblings included.
+- **[Schedule, packing list, and campsite map →](/events/fall-campout/)**
+
+---
+
 <a id="september-pack-meeting"></a>
 ### September Pack Meeting
 

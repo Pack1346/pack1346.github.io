@@ -21,28 +21,17 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
 
-- 📝 🆕 **[Fall Campout](#fall-campout)** - October 16-18 at Prince William Forest, Sites C and A ([campsite map](/events/fall-campout/#finding-our-sites)). [RSVP](https://forms.gle/xN1H1GfQgFSur1Ns9) by Sunday, October 11, and bring health forms.
 - **[October Pack Meeting](#october-pack-meeting)** - Tuesday, October 20, 6:30 PM at Fairview. Outdoors and Camping theme, right after the campout. Friends welcome.
 - 📝 🆕 **[Living Savior Workday](#lslc-workday)** - Saturday, November 7, 8:30 to about 10:30 AM (corrected time). Help our charter organization. [RSVP](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1.
 - **[Scouting for Food](#scouting-for-food)** - November 7 or 8. Your den leader will send your den's time.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: October 15, 2026*
+*Last updated: October 19, 2026*
 
 ---
 
 ## Events
-
----
-
-<a id="fall-campout"></a>
-### Fall Campout & Bobcat Ceremony
-
-- **Date:** Friday, October 16 through Sunday, October 18
-- **Location:** Turkey Run Ridge Group Campground, Sites C and A, Prince William Forest Park, Triangle, VA ([map](https://maps.app.goo.gl/UViLm4zJuguiiTay5))
-- **Description:** Our big family campout of the fall, and the weekend our newest scouts earn their Bobcat rank. Whole families camp together, siblings included. No experience needed, and we'll help you sort out gear.
-- **[Full details, packing list, and directions →](/events/fall-campout/)**
 
 ---
 
