@@ -22,12 +22,13 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 **Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
 
 - **[October Pack Meeting](#october-pack-meeting)** - Tuesday, October 20, 6:30 PM at Fairview. Outdoors and Camping theme, right after the campout. Friends welcome.
+- 🆕 **[Tent-or-Treat](#tent-or-treat)** - Wednesday, October 28, 6:30 PM at the Woods Community Center in Burke. Hosted by Troop 1345, who invited our families. Costumes welcome.
 - 📝 🆕 **[Living Savior Workday](#lslc-workday)** - Saturday, November 7, 8:30 to about 10:30 AM (corrected time). Help our charter organization. [RSVP](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1.
 - **[Scouting for Food](#scouting-for-food)** - November 7 or 8. Your den leader will send your den's time.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: October 19, 2026*
+*Last updated: October 20, 2026*
 
 ---
 
@@ -81,6 +82,23 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 - **Date:** Tuesday, December 15, 6:30 PM - 7:30 PM
 - **Location:** Fairview Elementary cafeteria
 - **Description:** Race Time planning, where scouts start thinking about their pinewood derby cars, plus a family reverence activity.
+
+---
+
+## Invitations From Local Troops
+
+Scouts BSA troops near us sometimes invite our families to their events. These are the troop's events, not the pack's. They're optional, there's no pack signup, and families go on their own. They're also a fun, low-pressure way to see what a troop is like, especially for Webelos and Arrow of Light families.
+
+<a id="tent-or-treat"></a>
+### Tent-or-Treat, hosted by Troop 1345
+
+- **Date:** 🆕 Wednesday, October 28, 6:30 PM to 8:00 PM
+- **Location:** Woods Community Center, 10100 Wards Grove Circle, Burke, VA ([map](https://www.google.com/maps/search/?api=1&query=10100+Wards+Grove+Circle+Burke+VA))
+- **Description:** Troop 1345's boys and girls troops have invited Pack 1346 to their Halloween open house. The troop scouts decorate their tents and hand out candy, trunk-or-treat style, and each patrol runs a game or activity at its tent. Costumes welcome, and brothers and sisters are welcome too.
+
+<a href="/assets/tent-or-treat-flyer.jpg"><img src="/assets/tent-or-treat-flyer.jpg" alt="Troop 1345 Tent-or-Treat flyer: October 28, 6:30 to 8:00 PM, Woods Community Center, Burke" width="220"></a>
+
+*Tap the flyer to see it full size.*
 
 ---
 
