@@ -21,7 +21,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
 
-- **[October Pack Meeting](#october-pack-meeting)** - Tuesday, October 20, 6:30 PM at Fairview. Outdoors and Camping theme, right after the campout. Friends welcome.
+- 🆕 **[October Pack Meeting](#october-pack-meeting)** - Tuesday, October 20, 6:30 PM in the Fairview cafeteria. Citizenship theme. Friends welcome.
 - 🆕 **[Tent-or-Treat](#tent-or-treat)** - Wednesday, October 28, 6:30 PM at the Woods Community Center in Burke. Hosted by Troop 1345, who invited our families. Costumes welcome.
 - 📝 🆕 **[Living Savior Workday](#lslc-workday)** - Saturday, November 7, 8:30 to about 10:30 AM (corrected time). Help our charter organization. [RSVP](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1.
 - **[Scouting for Food](#scouting-for-food)** - November 7 or 8. Your den leader will send your den's time.
@@ -40,8 +40,8 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 ### October Pack Meeting
 
 - **Date:** Tuesday, October 20, 6:30 PM - 7:30 PM
-- **Location:** Fairview Elementary blacktop. If the weather is bad, we move into the cafeteria.
-- **Description:** Theme is Outdoors and Camping, coming right off the fall campout. Friends welcome.
+- **Location:** 🆕 Fairview Elementary cafeteria
+- **Description:** Theme is Citizenship. Dens act out everyday moments at home, at school, and around the neighborhood, then get a "do over" to try it the Scout way. Friends welcome.
 
 ---
 
