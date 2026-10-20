@@ -106,9 +106,7 @@ Scouts BSA troops near us sometimes invite our families to their events. These a
 
 These aren't pack-run events, so there's no pack signup and no pack transportation. Families register directly with the council and go on their own. Several pack families usually turn up at each one, and they're all open to friends.
 
-- **Scout-tober Fest** - Saturday, October 24, from 10:00 AM, Camp Snyder. $15 per scout, $5 per adult for the day. [Register](https://tinyurl.com/wyveynkm)
-
-Camp Snyder usually runs a fall family camping weekend in November as well. They haven't posted this year's dates yet, and we'll add it here once they do.
+Camp Snyder usually runs a fall family camping weekend in November. They haven't posted this year's dates yet, and we'll add it here once they do.
 
 ---
 
