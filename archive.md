@@ -13,6 +13,15 @@ Past pack events, kept for reference. For upcoming events, see the [main page](h
 
 ---
 
+<a id="october-pack-meeting"></a>
+### October Pack Meeting
+
+- **Date:** Tuesday, October 20, 2026, 6:30 PM - 7:30 PM
+- **Location:** Fairview Elementary cafeteria
+- **Description:** A Citizenship-themed meeting. Dens acted out everyday moments at home, at school, and around the neighborhood, then got a "do over" to try them the Scout way.
+
+---
+
 <a id="fall-campout"></a>
 ### Fall Campout & Bobcat Ceremony
 

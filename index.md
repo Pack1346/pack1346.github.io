@@ -12,7 +12,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Ready to sign up?** [Register online here](https://my.scouting.org/VES/OnlineReg/1.0.0/?tu=UF-MB-082paa1346)
 - **Want more information, or have a question?** [Fill out our interest form](https://tinyurl.com/4edf2vmp) and we'll get back to you.
-- **Want to just come see?** Visit our [October Pack Meeting](#october-pack-meeting) on Tuesday, October 20. Bring a friend, no commitment.
+- **Want to just come see?** Visit our [November Pack Meeting](#november-pack-meeting) on Tuesday, November 17. Bring a friend, no commitment.
 - **Follow along:** [Pack 1346 on Facebook](https://www.facebook.com/Pack1346)
 
 ---
@@ -21,27 +21,18 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
 
-- 🆕 **[October Pack Meeting](#october-pack-meeting)** - Tuesday, October 20, 6:30 PM in the Fairview cafeteria. Citizenship theme. Friends welcome.
 - 🆕 **[Tent-or-Treat](#tent-or-treat)** - Wednesday, October 28, 6:30 PM at the Woods Community Center in Burke. Hosted by Troop 1345, who invited our families. Costumes welcome.
 - 📝 🆕 **[Living Savior Workday](#lslc-workday)** - Saturday, November 7, 8:30 to about 10:30 AM (corrected time). Help our charter organization. [RSVP](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1.
 - **[Scouting for Food](#scouting-for-food)** - November 7 or 8. Your den leader will send your den's time.
+- 🆕 **[November Pack Meeting](#november-pack-meeting)** - Tuesday, November 17, 6:30 PM in the Fairview cafeteria. Food for Neighbors service project; donation signup coming soon.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: October 20, 2026*
+*Last updated: October 24, 2026*
 
 ---
 
 ## Events
-
----
-
-<a id="october-pack-meeting"></a>
-### October Pack Meeting
-
-- **Date:** Tuesday, October 20, 6:30 PM - 7:30 PM
-- **Location:** 🆕 Fairview Elementary cafeteria
-- **Description:** Theme is Citizenship. Dens act out everyday moments at home, at school, and around the neighborhood, then get a "do over" to try it the Scout way. Friends welcome.
 
 ---
 
@@ -50,7 +41,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** 🆕 Saturday, November 7, 8:30 AM to about 10:30 AM (corrected; we first listed 9:30)
 - **Location:** Living Savior Lutheran Church, 5500 Ox Road, Fairfax Station, VA ([map](https://www.google.com/maps/search/?api=1&query=5500+Ox+Road+Fairfax+Station+VA+22039))
-- **Description:** Living Savior is our charter organization, the church that sponsors our pack and hosts our Pinewood Derby. This is our chance to give back, and we'd love a big turnout from every den. We'll clear leaves from the church lawn, the preschool, and the vicarage. Scouts of any age can pitch in, and it counts toward service hours, so record it in Scoutbook.
+- **Description:** Living Savior is our charter organization, the church that sponsors our pack. This is our chance to give back, and we'd love a big turnout from every den. We'll clear leaves from the church lawn, the preschool, and the vicarage. Scouts of any age can pitch in, and it counts toward service hours, so record it in Scoutbook.
 - **What to bring:** Work gloves for everyone, plus a rake, leaf blower, or wheelbarrow if you have one (and an extension cord for an electric blower). The church has some rakes on hand. Bring water bottles and wear clothes that can get dirty.
 - **RSVP:** 📝 [RSVP here](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1, so we can give the church a headcount.
 
@@ -72,7 +63,8 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** Tuesday, November 17, 6:30 PM - 7:30 PM
 - **Location:** Fairview Elementary cafeteria
-- **Description:** Theme is Citizenship, paired with our Food for Neighbors service project.
+- **Description:** Theme is Citizenship. Scouts will pack meal kits for Food for Neighbors, which stocks food pantries for students at local middle and high schools.
+- **What to bring:** 🆕 Donated food items. A signup with the list of what's needed is coming soon, so watch for it here and in your email.
 
 ---
 
@@ -119,6 +111,7 @@ Pack meetings run 6:30 to 7:30 PM at Fairview Elementary.
 | Date | Event |
 |------|-------|
 | Tuesday, January 19 | Pack meeting: Fitness & Sock Games, with a sock donation |
+| Saturday, February 6 | Pinewood Derby, 8 AM to 1 PM, Simmons Hall at the Buckhall Volunteer Fire Department, Manassas |
 | Tuesday, February 16 | Pack meeting |
 | Tuesday, March 16 | Pack meeting: STEM |
 | Tuesday, April 27 | Pack meeting: Conservation |
@@ -128,7 +121,6 @@ Pack meetings run 6:30 to 7:30 PM at Fairview Elementary.
 
 Also coming, with dates still to be confirmed:
 
-- **Pinewood Derby**, early February, at Living Savior Lutheran Church
 - **Blue & Gold Banquet and Arrow of Light crossover**, early March, at Redeeming Grace Church
 - **Spring conservation project**, in April
 - **Summer 2027 day camp**
