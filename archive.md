@@ -13,6 +13,33 @@ Past pack events, kept for reference. For upcoming events, see the [main page](h
 
 ---
 
+<a id="scouting-for-food"></a>
+### Scouting for Food
+
+- **Date:** Saturday, November 7, or Sunday, November 8, 2026. Each den picked its own day and time.
+- **Location:** Neighborhoods around Fairview (each den had its own route)
+- **Description:** Our council-wide service project. Scouts went door to door leaving door hangers that asked neighbors to set out non-perishable food on Saturday, November 14, for local Scouts BSA troops to collect.
+
+---
+
+<a id="lslc-workday"></a>
+### Living Savior Workday
+
+- **Date:** Saturday, November 7, 2026, 8:30 AM to about 10:30 AM
+- **Location:** Living Savior Lutheran Church, 5500 Ox Road, Fairfax Station, VA ([map](https://www.google.com/maps/search/?api=1&query=5500+Ox+Road+Fairfax+Station+VA+22039))
+- **Description:** A workday for our charter organization, the church that sponsors our pack. Families cleared leaves from the church lawn, the preschool, and the vicarage.
+
+---
+
+<a id="tent-or-treat"></a>
+### Tent-or-Treat, hosted by Troop 1345
+
+- **Date:** Wednesday, October 28, 2026, 6:30 PM to 8:00 PM
+- **Location:** Woods Community Center, 10100 Wards Grove Circle, Burke, VA
+- **Description:** Troop 1345's boys and girls troops invited our families to their Halloween open house. Troop scouts decorated their tents, handed out candy trunk-or-treat style, and ran a game at each patrol's tent.
+
+---
+
 <a id="october-pack-meeting"></a>
 ### October Pack Meeting
 

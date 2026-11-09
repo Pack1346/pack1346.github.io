@@ -21,40 +21,15 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
 
-- 🆕 **[Tent-or-Treat](#tent-or-treat)** - Wednesday, October 28, 6:30 PM at the Woods Community Center in Burke. Hosted by Troop 1345, who invited our families. Costumes welcome.
-- 📝 🆕 **[Living Savior Workday](#lslc-workday)** - Saturday, November 7, 8:30 to about 10:30 AM (corrected time). Help our charter organization. [RSVP](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1.
-- **[Scouting for Food](#scouting-for-food)** - November 7 or 8. Your den leader will send your den's time.
-- 🆕 **[November Pack Meeting](#november-pack-meeting)** - Tuesday, November 17, 6:30 PM in the Fairview cafeteria. Food for Neighbors service project; donation signup coming soon.
+- 📝 🆕 **[November Pack Meeting](#november-pack-meeting)** - Tuesday, November 17, 6:30 PM in the Fairview cafeteria. Food for Neighbors packing night. [Sign up to donate food](https://www.signupgenius.com/go/70A0D4DA8AE22A1F58-67086738-pack) and bring it to the meeting.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
-*Last updated: October 24, 2026*
+*Last updated: November 9, 2026*
 
 ---
 
 ## Events
-
----
-
-<a id="lslc-workday"></a>
-### Living Savior Workday
-
-- **Date:** 🆕 Saturday, November 7, 8:30 AM to about 10:30 AM (corrected; we first listed 9:30)
-- **Location:** Living Savior Lutheran Church, 5500 Ox Road, Fairfax Station, VA ([map](https://www.google.com/maps/search/?api=1&query=5500+Ox+Road+Fairfax+Station+VA+22039))
-- **Description:** Living Savior is our charter organization, the church that sponsors our pack. This is our chance to give back, and we'd love a big turnout from every den. We'll clear leaves from the church lawn, the preschool, and the vicarage. Scouts of any age can pitch in, and it counts toward service hours, so record it in Scoutbook.
-- **What to bring:** Work gloves for everyone, plus a rake, leaf blower, or wheelbarrow if you have one (and an extension cord for an electric blower). The church has some rakes on hand. Bring water bottles and wear clothes that can get dirty.
-- **RSVP:** 📝 [RSVP here](https://forms.gle/WygprJ4Ej6zN2nQS8) by Sunday, November 1, so we can give the church a headcount.
-
----
-
-<a id="scouting-for-food"></a>
-### Scouting for Food
-
-- **Date:** 🆕 Saturday, November 7, or Sunday, November 8. Each den picks its own day and time.
-- **How it works:** Your den leader will send the day, time, and meeting spot for your den. Watch for that message in late October.
-- **Location:** Neighborhoods around Fairview (each den gets its own route)
-- **Description:** Our council-wide service project and one of the best things we do all year. Scouts go door to door leaving door hangers that ask neighbors to set out non-perishable food on Saturday, November 14, when local Scouts BSA troops come back to collect it. It takes about an hour, it's easy for even the youngest scouts, and it's a lot of fun, especially if scouts ride scooters along the route (helmets on, please). And it feeds real families in Fairfax. It happens rain or shine, so dress for the weather.
-- **Same weekend:** The [Living Savior Workday](#lslc-workday) is Saturday morning, 8:30 to about 10:30 AM. Dens will plan their walks around it, so you can do both.
 
 ---
 
@@ -63,8 +38,8 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 - **Date:** Tuesday, November 17, 6:30 PM - 7:30 PM
 - **Location:** Fairview Elementary cafeteria
-- **Description:** Theme is Citizenship. Scouts will pack meal kits for Food for Neighbors, which stocks food pantries for students at local middle and high schools.
-- **What to bring:** 🆕 Donated food items. A signup with the list of what's needed is coming soon, so watch for it here and in your email.
+- **Description:** Theme is Citizenship. Scouts will pack 250 meal kits for Food for Neighbors, a local nonprofit that stocks food pantries for students at nearby middle and high schools. Someone from Food for Neighbors will join us to tell the scouts who these packs help. It counts toward service hours, so record it in Scoutbook.
+- **What to bring:** 📝 🆕 Individually packaged food for the kits. [Sign up here](https://www.signupgenius.com/go/70A0D4DA8AE22A1F58-67086738-pack) to choose what you'll bring, then bring it to the meeting. The signup shows only how many items are still needed; other families can't see your name.
 
 ---
 
@@ -81,16 +56,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 Scouts BSA troops near us sometimes invite our families to their events. These are the troop's events, not the pack's. They're optional, there's no pack signup, and families go on their own. They're also a fun, low-pressure way to see what a troop is like, especially for Webelos and Arrow of Light families.
 
-<a id="tent-or-treat"></a>
-### Tent-or-Treat, hosted by Troop 1345
-
-- **Date:** 🆕 Wednesday, October 28, 6:30 PM to 8:00 PM
-- **Location:** Woods Community Center, 10100 Wards Grove Circle, Burke, VA ([map](https://www.google.com/maps/search/?api=1&query=10100+Wards+Grove+Circle+Burke+VA))
-- **Description:** Troop 1345's boys and girls troops have invited Pack 1346 to their Halloween open house. The troop scouts decorate their tents and hand out candy, trunk-or-treat style, and each patrol runs a game or activity at its tent. Costumes welcome, and brothers and sisters are welcome too.
-
-<a href="/assets/tent-or-treat-flyer.jpg"><img src="/assets/tent-or-treat-flyer.jpg" alt="Troop 1345 Tent-or-Treat flyer: October 28, 6:30 to 8:00 PM, Woods Community Center, Burke" width="220"></a>
-
-*Tap the flyer to see it full size.*
+Nothing right now. We'll post the next invitation here when a troop sends one.
 
 ---
 
@@ -98,7 +64,7 @@ Scouts BSA troops near us sometimes invite our families to their events. These a
 
 These aren't pack-run events, so there's no pack signup and no pack transportation. Families register directly with the council and go on their own. Several pack families usually turn up at each one, and they're all open to friends.
 
-Camp Snyder usually runs a fall family camping weekend in November. They haven't posted this year's dates yet, and we'll add it here once they do.
+Nothing is posted right now. We'll add council events here as registration opens.
 
 ---
 
