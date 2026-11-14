@@ -52,6 +52,33 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 ---
 
+<a id="january-pack-meeting"></a>
+### January Pack Meeting
+
+- **Date:** Tuesday, January 19, 6:30 PM - 7:30 PM
+- **Location:** Fairview Elementary
+- **Description:** Fitness & Sock Games, with a sock donation. More details closer to the date.
+
+---
+
+<a id="pinewood-derby"></a>
+### Pinewood Derby
+
+- **Date:** Saturday, February 6, 8:00 AM - 1:00 PM. Early car registration Friday, February 5, 6:30 - 7:30 PM, same location.
+- **Location:** Simmons Hall, Buckhall Volunteer Fire Department, 7190 Yates Ford Road, Manassas, VA ([directions](https://www.google.com/maps/search/?api=1&query=7190+Yates+Ford+Road+Manassas+VA+20111))
+- **Description:** Scouts race the pinewood derby cars they build this winter. New location this year, out in Manassas. More information will follow, including the race schedule by rank, the rules, and how to volunteer.
+
+---
+
+<a id="february-pack-meeting"></a>
+### February Pack Meeting
+
+- **Date:** Tuesday, February 16, 6:30 PM - 7:30 PM
+- **Location:** Fairview Elementary
+- **Description:** More details closer to the date.
+
+---
+
 ## Invitations From Local Troops
 
 Scouts BSA troops near us sometimes invite our families to their events. These are the troop's events, not the pack's. They're optional, there's no pack signup, and families go on their own. They're also a fun, low-pressure way to see what a troop is like, especially for Webelos and Arrow of Light families.
@@ -76,9 +103,7 @@ Pack meetings run 6:30 to 7:30 PM at Fairview Elementary.
 
 | Date | Event |
 |------|-------|
-| Tuesday, January 19 | Pack meeting: Fitness & Sock Games, with a sock donation |
-| Saturday, February 6 | Pinewood Derby, 8 AM to 1 PM, Simmons Hall at the Buckhall Volunteer Fire Department, Manassas |
-| Tuesday, February 16 | Pack meeting |
+| Saturday, March 6 | Blue & Gold Banquet and Arrow of Light crossover, Redeeming Grace Church |
 | Tuesday, March 16 | Pack meeting: STEM |
 | Tuesday, April 27 | Pack meeting: Conservation |
 | Tuesday, May 18 | Pack meeting: Camping & Summer Fun |
@@ -87,7 +112,6 @@ Pack meetings run 6:30 to 7:30 PM at Fairview Elementary.
 
 Also coming, with dates still to be confirmed:
 
-- **Blue & Gold Banquet and Arrow of Light crossover**, early March, at Redeeming Grace Church
 - **Spring conservation project**, in April
 - **Summer 2027 day camp**
 
