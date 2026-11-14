@@ -21,7 +21,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 
 **Two places to look.** The **[Pack Calendar](/calendar)** is the whole picture on one grid: pack events, den meetings, and committee meetings, with dates, times, and locations. This page covers pack events only, in more depth: the next few are listed just below, and the full write-ups (what to bring, RSVPs, directions) follow under Events.
 
-- ⏰ 📝 🆕 **[November Pack Meeting](#november-pack-meeting)** - Tuesday, November 17, 6:30 PM in the Fairview cafeteria. Food for Neighbors packing night. **We're less than halfway to our goal of 250 meal packs.** [Sign up to donate food](https://www.signupgenius.com/go/70A0D4DA8AE22A1F58-67086738-pack) and bring it to the meeting, along with any spare boxes or bags.
+- ⏰ 📝 🆕 **[November Pack Meeting](#november-pack-meeting)** - Tuesday, November 17, 6:30 PM in the Fairview cafeteria. Food for Neighbors packing night. **We're less than halfway to our goal of 250 meal packs.** [Sign up to donate food](https://www.signupgenius.com/go/70A0D4DA8AE22A1F58-67086738-pack) and bring it to the meeting.
 
 **Legend:** 📝 RSVP needed · 🆕 New or updated · ⏰ Heads-up for upcoming action
 
@@ -39,7 +39,7 @@ Cub Scouts is open to kids in kindergarten through 5th grade, and you can join a
 - **Date:** Tuesday, November 17, 6:30 PM - 7:30 PM
 - **Location:** Fairview Elementary cafeteria
 - **Description:** Theme is Citizenship. Scouts will pack 250 meal kits for Food for Neighbors, a local nonprofit that stocks food pantries for students at nearby middle and high schools. Someone from Food for Neighbors will join us to tell the scouts who these packs help. It counts toward service hours, so record it in Scoutbook.
-- **What to bring:** 📝 🆕 Individually packaged food for the kits. [Sign up here](https://www.signupgenius.com/go/70A0D4DA8AE22A1F58-67086738-pack) to choose what you'll bring, then bring it to the meeting. The biggest needs right now are fruit cups, cracker packs, trail mix or tuna and cracker packs, bars, shelf-stable milk, and juice boxes. Please also bring sturdy boxes or large bags you don't need back, for packing up the finished kits. The signup shows only how many items are still needed; other families can't see your name.
+- **What to bring:** 📝 🆕 Individually packaged food for the kits. [Sign up here](https://www.signupgenius.com/go/70A0D4DA8AE22A1F58-67086738-pack) to choose what you'll bring, then bring it to the meeting. The biggest needs right now are fruit cups, cracker packs, trail mix or tuna and cracker packs, bars, shelf-stable milk, and juice boxes. The signup shows only how many items are still needed; other families can't see your name.
 
 ---
 
